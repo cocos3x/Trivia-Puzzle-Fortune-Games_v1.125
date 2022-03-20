@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 566e6967c1fb03c476e927357a4f618d, type: 3}
+  m_Name: "PortraitEcon"
+  m_EditorClassIdentifier: 
+  MyCollections:
+  - collectionName: "The Crown Jewels"
+    banner: {fileID: 21300000, guid: 9a2d3c8fa9e246e9bb811a5ca54eae4b, type: 3}
+    progressPortraits:
+    - "FPH_Jewel01"
+    - "FPH_Jewel02"
+    - "FPH_Jewel03"
+    - "FPH_Jewel04"
+    - "FPH_Ring01"
+    - "FPH_Ring02"
+    - "FPH_Bracelet01"
+    - "FPH_Necklace01"
+    - "FPH_Necklace02"
+    - "FPH_Brooch01"
+    - "FPH_Sceptor01"
+    - "FPH_Crown01"
+  - collectionName: "Tomb Raiders"
+    banner: {fileID: 21300000, guid: e51418ac277e41febac103b4dd732cbd, type: 3}
+    progressPortraits:
+    - "FPH_Tomb_Raiders_Golden_Chalice"
+    - "FPH_Tomb_Raiders_Tome"
+    - "FPH_Tomb_Raiders_Cobra"
+    - "FPH_Tomb_Raiders_Jeweled_Scarab"
+    - "FPH_Tomb_Raiders_Ancient_Script"
+    - "FPH_Tomb_Raiders_Small_Golden_Idol_Statue"
+    - "FPH_Tomb_Raiders_Small_Pot"
+    - "FPH_Tomb_Raiders_Cuffs"
+    - "FPH_Tomb_Raiders_Necklace"
+    - "FPH_Tomb_Raiders_Crystal_Skull"
+    - "FPH_Tomb_Raiders_Sculpture1"
+    - "FPH_Tomb_Raiders_Pharoah_Sarcophagus"
+  - collectionName: "Life of Luxury"
+    banner: {fileID: 21300000, guid: 4311da2cf8594136a7b237e3f97a94ac, type: 3}
+    progressPortraits:
+    - "FPH_Life_Of_Luxury_Swimming_Pool"
+    - "FPH_Life_Of_Luxury_Bling"
+    - "FPH_Life_Of_Luxury_Luxury_Handbag"
+    - "FPH_Life_Of_Luxury_Cat_WithGem_Collar"
+    - "FPH_Life_Of_Luxury_Bucket_Of_Champagne"
+    - "FPH_Life_Of_Luxury_Poodle_With_Gem_Collar"
+    - "FPH_Life_Of_Luxury_Rolex_Watch"
+    - "FPH_Life_Of_Luxury_Diamond_Bracelet"
+    - "FPH_Life_Of_Luxury_Yacht"
+    - "FPH_Life_Of_Luxury_Motorcycle"
+    - "FPH_Life_Of_Luxury_Private_Jet"
+    - "FPH_Life_Of_Luxury_Sports_Car"
+  - collectionName: "Arctic Adventure"
+    banner: {fileID: 21300000, guid: 565d09a81c7a465196c7b34425734ccb, type: 3}
+    progressPortraits:
+    - "FPH_Arctic_Adventure_Ship"
+    - "FPH_Arctic_Adventure_Sled"
+    - "FPH_Arctic_Adventure_Snow_Shoes"
+    - "FPH_Arctic_Adventure_Narwhal"
+    - "FPH_Arctic_Adventure_Polar_Bear"
+    - "FPH_Arctic_Adventure_Snow_Bunny"
+    - "FPH_Arctic_Adventure_Walrus"
+    - "FPH_Arctic_Adventure_Reindeer"
+    - "FPH_Arctic_Adventure_Igloo"
+    - "FPH_Arctic_Adventure_Seal"
+    - "FPH_Arctic_Adventure_Penguin"
+    - "FPH_Arctic_Adventure_Arctic_Fox"
+  - collectionName: "Under The Sea"
+    banner: {fileID: 21300000, guid: 559a6bd8f1cb40fbaef7b30b3096e461, type: 3}
+    progressPortraits:
+    - "FPH_Under_The_Sea_Clam"
+    - "FPH_Under_The_Sea_Turtle"
+    - "FPH_Under_The_Sea_Starfish"
+    - "FPH_Under_The_Sea_Dolphin"
+    - "FPH_Under_The_Sea_Orca"
+    - "FPH_Under_The_Sea_Eel"
+    - "FPH_Under_The_Sea_Puffer_Fish"
+    - "FPH_Under_The_Sea_Hermit_Crab"
+    - "FPH_Under_The_Sea_Sea_Horse"
+    - "FPH_Under_The_Sea_Octopus"
+    - "FPH_Under_The_Sea_Stingray"
+    - "FPH_Under_The_Sea_Copperband_Butterfly"
+  - collectionName: "Wildlife Safari"
+    banner: {fileID: 21300000, guid: ba720f6cfb6947a7bcf928496ce9ee1e, type: 3}
+    progressPortraits:
+    - "FPH_Wildlife_Safari_African_Hat"
+    - "FPH_Wildlife_Safari_African_Jeep"
+    - "FPH_Wildlife_Safari_African_Giraffe"
+    - "FPH_Wildlife_Safari_African_Gazelle"
+    - "FPH_Wildlife_Safari_African_Camera"
+    - "FPH_Wildlife_Safari_African_Hippo"
+    - "FPH_Wildlife_Safari_African_Shield"
+    - "FPH_Wildlife_Safari_African_Hyena"
+    - "FPH_Wildlife_Safari_African_Safari_Cheetah"
+    - "FPH_Wildlife_Safari_African_Baby_Elephant"
+    - "FPH_Wildlife_Safari_African_Zebra"
+    - "FPH_Wildlife_Safari_African_Lion"
+  - collectionName: "Jungle Trek"
+    banner: {fileID: 21300000, guid: f83de61c51e243aba0439d47139f078d, type: 3}
+    progressPortraits:
+    - "FPH_Jungle_Trek_Binoculars"
+    - "FPH_Jungle_Trek_Blue_Butterfly"
+    - "FPH_Jungle_Trek_Jungle_Flower"
+    - "FPH_Jungle_Trek_Tree_Hut"
+    - "FPH_Jungle_Trek_Atlas_Beetle"
+    - "FPH_Jungle_Trek_Macaw_Parrot"
+    - "FPH_Jungle_Trek_Albino_Python"
+    - "FPH_Jungle_Trek_Red-Eyed_Tree_Frog"
+    - "FPH_Jungle_Trek_Hornbill"
+    - "FPH_Jungle_Trek_Sloth"
+    - "FPH_Jungle_Trek_Tiger"
+    - "FPH_Jungle_Trek_Orangutan"
+  - collectionName: "Jurassic World"
+    banner: {fileID: 21300000, guid: d2f94aa5bc3b4ae4b485415f730c721c, type: 3}
+    progressPortraits:
+    - "FPH_Jurassic_World_VenusFlyTrap"
+    - "FPH_Jurassic_World_Dinosaur_Eggs"
+    - "FPH_Jurassic_World_Epidexipteryx"
+    - "FPH_Jurassic_World_Trilobite_Fossil"
+    - "FPH_Jurassic_World_Velociraptor"
+    - "FPH_Jurassic_World_Volcano"
+    - "FPH_Jurassic_World_Pterodactyl"
+    - "FPH_Jurassic_World_Plesiosaurus"
+    - "FPH_Jurassic_World_Stegosaurus"
+    - "FPH_Jurassic_World_Triceratops"
+    - "FPH_Jurassic_World_Brachiosaurus"
+    - "FPH_Jurassic_World_T-Rex"
+  - collectionName: "Galaxy Explorers"
+    banner: {fileID: 21300000, guid: 825035798ba34b90b14aab02ba6b9b3e, type: 3}
+    progressPortraits:
+    - "FPH_Galaxy_Explorers_Planet"
+    - "FPH_Galaxy_Explorers_Space_Helmet"
+    - "FPH_Galaxy_Explorers_Laser_Gun"
+    - "FPH_Galaxy_Explorers_Small_Space_Ship"
+    - "FPH_Galaxy_Explorers_Small_Robot"
+    - "FPH_Galaxy_Explorers_Alien_Plant"
+    - "FPH_Galaxy_Explorers_Alien_Creature"
+    - "FPH_Galaxy_Explorers_Large_Spaceship"
+    - "FPH_Galaxy_Explorers_Alien_Monster"
+    - "FPH_Galaxy_Explorers_Humanoid_Droid"
+    - "FPH_Galaxy_Explorers_Humanoid_Alien"
+    - "FPH_Galaxy_Explorers_Space_Station"
+  rarityWeights: 0A00000019000000190000003200000032000000320000004B0000004B0000004B000000640000006400000064000000

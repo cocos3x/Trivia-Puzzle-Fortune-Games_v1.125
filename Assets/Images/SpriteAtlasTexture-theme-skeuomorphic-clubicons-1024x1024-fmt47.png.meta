@@ -1,0 +1,3306 @@
+fileFormatVersion: 2
+guid: 85978dc5e9bd4318a092d850fc02bd8f
+timeCreated: 1647793009
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300034: SLLClubIcon_23
+    21300048: SLLClubIcon_35
+    21300030: SLLClubIcon_42
+    21300014: SLLClubIcon_46
+    21300058: SLLClubIcon_1
+    21300026: SLLClubIcon_36
+    21300050: SLLClubIcon_49
+    21300080: SLLClubIcon_14
+    21300096: SLLClubIcon_13
+    21300008: SLLClubIcon_50
+    21300088: SLLClubIcon_38
+    21300086: SLLClubIcon_29
+    21300076: SLLClubIcon_8
+    21300022: SLLClubIcon_31
+    21300000: SLLClubIcon_9
+    21300090: SLLClubIcon_26
+    21300082: SLLClubIcon_18
+    21300092: SLLClubIcon_25
+    21300006: SLLClubIcon_22
+    21300004: SLLClubIcon_21
+    21300040: SLLClubIcon_28
+    21300028: SLLClubIcon_17
+    21300044: SLLClubIcon_24
+    21300012: SLLClubIcon_30
+    21300072: SLLClubIcon_3
+    21300056: SLLClubIcon_43
+    21300094: SLLClubIcon_33
+    21300016: SLLClubIcon_12
+    21300042: SLLClubIcon_6
+    21300052: SLLClubIcon_45
+    21300024: SLLClubIcon_10
+    21300002: SLLClubIcon_44
+    21300054: SLLClubIcon_7
+    21300020: SLLClubIcon_27
+    21300098: SLLClubIcon_15
+    21300038: SLLClubIcon_11
+    21300070: SLLClubIcon_0
+    21300100: SLLClubIcon_19
+    21300062: SLLClubIcon_16
+    21300068: SLLClubIcon_32
+    21300046: SLLClubIcon_20
+    21300066: SLLClubIcon_40
+    21300036: SLLClubIcon_41
+    21300084: SLLClubIcon_37
+    21300074: SLLClubIcon_47
+    21300032: SLLClubIcon_48
+    21300064: SLLClubIcon_5
+    21300060: SLLClubIcon_39
+    21300010: SLLClubIcon_34
+    21300078: SLLClubIcon_2
+    21300018: SLLClubIcon_4
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SLLClubIcon_23
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 756
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 716
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_42
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 252
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_46
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 630
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_1
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 756
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_36
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 126
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_49
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 504
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_14
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 882
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_13
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 0
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_50
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 590
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_29
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 252
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_8
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 252
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_31
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 378
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_9
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 756
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_26
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 252
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_18
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 378
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_25
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 252
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_22
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 378
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_21
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 756
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_28
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 378
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_17
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 630
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_24
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 630
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_30
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 0
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_3
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 504
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_43
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 378
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_33
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 504
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_6
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 630
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_45
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 756
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_10
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 252
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_44
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 126
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_15
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 378
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_11
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 504
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_0
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 0
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_19
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 630
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_16
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 126
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_32
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 882
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_20
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 126
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_40
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 126
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_41
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 630
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_37
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 252
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_47
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 504
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_48
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 504
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_5
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 126
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_39
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 378
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_34
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 842
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SLLClubIcon_4
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 0
+        width: 124
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -62}
+        - {x: -62, y: 56}
+        - {x: 60, y: -62}
+      - - {x: -39, y: 62}
+        - {x: 60, y: -62}
+        - {x: -62, y: 56}
+      - - {x: 27, y: 62}
+        - {x: 60, y: -62}
+        - {x: -39, y: 62}
+      - - {x: 38, y: 55}
+        - {x: 60, y: -62}
+        - {x: 27, y: 62}
+      - - {x: 61, y: 26}
+        - {x: 60, y: -62}
+        - {x: 38, y: 55}
+      - - {x: 62, y: -61}
+        - {x: 60, y: -62}
+        - {x: 61, y: 26}
+      - - {x: 62, y: 19}
+        - {x: 62, y: -61}
+        - {x: 61, y: 26}
+      physicsShape:      
+      - - {x: 58, y: -12}
+        - {x: 58, y: 11}
+        - {x: 55, y: 26}
+        - {x: 46, y: 41}
+        - {x: 27, y: 58}
+        - {x: 12, y: 62}
+        - {x: -15, y: 62}
+        - {x: -25, y: 60}
+        - {x: -38, y: 52}
+        - {x: -46, y: 45}
+        - {x: -56, y: 34}
+        - {x: -62, y: 18}
+        - {x: -62, y: -12}
+        - {x: -57, y: -27}
+        - {x: -53, y: -32}
+        - {x: -40, y: -46}
+        - {x: -29, y: -53}
+        - {x: -17, y: -58}
+        - {x: 12, y: -58}
+        - {x: 20, y: -56}
+        - {x: 37, y: -46}
+        - {x: 51, y: -30}
+      tessellationDetail: 0
+      spriteID: 
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

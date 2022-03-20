@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80154dad11d760a13303332a1bc7b428, type: 3}
+  m_Name: "FortunePhrases_AudioDefinition"
+  m_EditorClassIdentifier: 
+  generalClips:
+  - {fileID: 8300000, guid: 7cf7f9733cca4cb7b6963ccf516e38a4, type: 3}
+  - {fileID: 8300000, guid: b3ebf5628b8f4a8c97488208bfa33a7f, type: 3}
+  - {fileID: 8300000, guid: 7511765aaf0a4afab7ec60d4764f26fb, type: 3}
+  - {fileID: 8300000, guid: 7511765aaf0a4afab7ec60d4764f26fb, type: 3}
+  - {fileID: 8300000, guid: 8aa8757e63804535a4f0f843d6529745, type: 3}
+  - {fileID: 8300000, guid: 5ea3db6df7094901b01dbf1b8ebb7ac6, type: 3}
+  - {fileID: 8300000, guid: e01d8e0e740b416586e53b78887cb4da, type: 3}
+  - {fileID: 8300000, guid: 8c735168b7384286af1cb2dbd2da1912, type: 3}
+  - {fileID: 8300000, guid: e01d8e0e740b416586e53b78887cb4da, type: 3}
+  - {fileID: 8300000, guid: c72b93a885ac4272ba98e9873abaf22c, type: 3}
+  - {fileID: 8300000, guid: 4dad93134b13413891f0927edc4192d3, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  buttonClips:
+  - {fileID: 8300000, guid: 5267312208254bc59a6431bb52b93db7, type: 3}
+  - {fileID: 0}
+  - {fileID: 0}
+  newItemId: 
+  newItemClips: {fileID: 0}
+  fadeBetweenTracks: 1
+  defaultMusicVolume: 1
+  menuMusic: []
+  gameplayMusic:
+  - {fileID: 8300000, guid: 643bd75e3027487da6487c4c4071f6a8, type: 3}
+  gameSpecificClips:
+  - id: "TRVChestOpen"
+    clips:
+    - {fileID: 8300000, guid: 31241aa7932d4c9889abf163b59a8512, type: 3}
+  - id: "TRVQuizCompleteCollect"
+    clips:
+    - {fileID: 8300000, guid: 26ecefc7c5f447df8fff3c3feb8693c7, type: 3}
+  - id: "KeyboardStandard"
+    clips:
+    - {fileID: 8300000, guid: 5267312208254bc59a6431bb52b93db7, type: 3}
+  - id: "KeyboardNegative"
+    clips:
+    - {fileID: 8300000, guid: 5ea3db6df7094901b01dbf1b8ebb7ac6, type: 3}
+  - id: "CorrectAnswer"
+    clips:
+    - {fileID: 8300000, guid: 06f1604b5384494699e33355f5527b09, type: 3}

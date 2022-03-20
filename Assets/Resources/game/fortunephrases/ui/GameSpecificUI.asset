@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c2c37a0d493f37fa2b1c131682b7097a, type: 3}
+  m_Name: "GameSpecificUI"
+  m_EditorClassIdentifier: 
+  statViewPrefab: {fileID: 1790755236086874895, guid: ac0952aec18f4ad4bce52b45d8483a20, type: 2}
+  gridCoinCollectAnimation: {fileID: 1790755237982700306, guid: 865c5b5851714e1897eda7852fd85952, type: 2}
+  animatedCoin: {fileID: 1790755237982700310, guid: a58f967feef445cc851ddf546c1742d0, type: 2}
+  coinsGainedAnimContents: {fileID: 1790755236086874896, guid: be226ceca3c441888c8a524fe9f09495, type: 2}

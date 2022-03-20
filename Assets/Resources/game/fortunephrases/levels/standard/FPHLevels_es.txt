@@ -1,0 +1,1501 @@
+Phrase ID	Level	Clue (Question)	Phrase (Answer)
+FPH217003	1	Día festivo	Pascua de Resurrección
+FPH14003	2	Marca de café	Starbucks
+FPH14002	3	Mascota	Hámster
+FPH14004	4	Artista pop	Ed sheeran
+FPH14005	5	Actor masculino	Anthony Quinn
+FPH217002	6	Gobierno	Andrés Manuel López Obrador
+FPH14001	7	Comida	Frutas y vegetales
+FPH14007	8	Programa de televisión	Juego de Tronos
+FPH14008	9	Pelicula Disney	La Dama y el Vagabundo
+FPH14009	10	Cena	Fajitas Carne Asada
+FPH14010	11	Dibujos animados	Bob Esponja
+FPH14011	12	Jugador de baloncesto	Kobe Bryant
+FPH14012	13	Mascota	Perro perdiguero de oro
+FPH14013	14	Desayuno	Huevos Rancheros
+FPH14014	15	Telenovela	Yo soy Betty, la fea
+FPH14015	16	Marca famosa	Microsoft
+FPH14016	17	Dibujos animados	Looney Tunes
+FPH14017	18	Actor femenino	Salma Hayek
+FPH14018	19	Animal	Panda gigante
+FPH14019	20	Personaje de disney	Capitán Jack Sparrow
+FPH14020	21	Comida	Tacos De Carnitas
+FPH14021	22	Artista pop	Justin Timberlake
+FPH14022	23	Evento	Dia de los Muertos
+FPH14023	24	Videojuego	Call of Duty
+FPH14024	25	Animal del océano	Delfín nariz de botella
+FPH14025	26	Artista pop	Britney Spears
+FPH14026	27	Artista del país	Garth Brooks
+FPH14027	28	Videojuego	Sonic the Hedgehog
+FPH14028	29	Canción de Disney	Ser nuestra invitada
+FPH14029	30	Película de acción	Matrix
+FPH14030	31	Pelicula Disney	La princesa y el sapo
+FPH14031	32	Videojuego	Super Mario
+FPH14032	33	Comedia	La princesa prometida
+FPH14033	34	Película de acción	Iron man
+FPH14034	35	Vehículo	Toyota Yaris
+FPH14035	36	Mascota	Gato atigrado
+FPH14036	37	Artista de hip hop	Kanye west
+FPH14037	38	Actor masculino	Leonardo DiCaprio
+FPH14038	39	Personajes de Disney	Anna y Elsa
+FPH217001	40	Gobierno	Enrique Peña Nieto
+FPH14040	41	Reality show	Paradise Hotel
+FPH14041	42	Película de acción	Misión Imposible
+FPH14042	43	Mascota	Pastor aleman
+FPH14043	44	Aperitivo	Pico de Gallo
+FPH14044	45	Artista pop	Banda Ms
+FPH14045	46	Mascotas exóticas	Serpiente de maíz
+FPH14046	47	Marca de tecnología	Samsung
+FPH14047	48	Canción de Disney	Bajo el mar
+FPH14048	49	Actor masculino	Robert De Niro
+FPH14049	50	Película de acción	Avengers Endgame
+FPH14050	51	Programa de televisión	Esta Cosa Que Es Nuestra
+FPH14051	52	Ciudad latinoamericana	Mexico City
+FPH14052	53	Vehículo	Volkswagen Tiguan
+FPH14053	54	Pelicula Disney	Alicia en el Pais de las Maravillas
+FPH14054	55	Artista del país	Luke Combs
+FPH14056	56	Película de acción	Identidad desconocida
+FPH14057	57	Cena	Burrito de pollo
+FPH14058	58	Pájaro	pingüino emperador
+FPH14059	59	Actor masculino	Alan Rickman
+FPH14060	60	Película de acción	Jurassic Park
+FPH14061	61	Desayuno	Huevos y tocino
+FPH14062	62	Animal del océano	león marino
+FPH14063	63	Marca de tecnología	Verizon Mobile
+FPH14064	64	Artista pop	Lady Gaga
+FPH14065	65	Mascota	Bulldog francés
+FPH14066	66	Gobierno	Felipe Calderón
+FPH14067	67	Actor masculino	Morgan Freeman
+FPH14068	68	Vehículo	Jeep Renegade
+FPH14069	69	Comedia	Monty Python and the Holy Grail
+FPH14070	70	Pájaro	buho Nevado
+FPH14071	71	Película de acción	John wick
+FPH14072	72	Marca atlética	Under Armor
+FPH14073	73	Comida	Mole picante
+FPH14074	74	Artista pop	Michael Jackson
+FPH14075	75	Canción de Disney	Hakuna Matata
+FPH14076	76	Actor masculino	Keanu Reeves
+FPH14077	77	Anfitrion de TELEVISION	Oprah winfrey
+FPH14078	78	Marca famosa	Facebook
+FPH14079	79	Ciudad latinoamericana	Guadalajara
+FPH14080	80	Comedia	Un experto en diversiones
+FPH14081	81	Telenovela	Corazón salvaje
+FPH14082	82	Evento	Vive Latino
+FPH14083	83	Animal del océano	Ballena azul
+FPH14084	84	Mascotas exóticas	Erizo
+FPH14085	85	Jugador de baloncesto	Michael Jordan
+FPH14086	86	Aperitivo	Guacamole
+FPH14087	87	Película de acción	Duro de matar
+FPH14088	88	Vehículo	Chevrolet Onix
+FPH14089	89	Videojuego	Pokemon
+FPH14090	90	Artista pop	Elvis Presley
+FPH14091	91	Mascota	Husky siberiano
+FPH14092	92	Pájaro	Colibrí
+FPH14093	93	Personaje de disney	Princesa jazmín
+FPH14094	94	Actor femenino	Angelina Jolie
+FPH14095	95	Pelicula Disney	Mulan
+FPH14096	96	Marca de tecnología	Google
+FPH14097	97	Jugador de baseball	Babe Ruth
+FPH14098	98	Mascotas exóticas	Dragon barbudo
+FPH14099	99	Cena	Quesadilla
+FPH14100	100	Comedia	Luchando con mi familia
+FPH218001	101	Día festivo	Día de Año Nuevo
+FPH218002	102	Comida	Frijoles charros
+FPH218003	103	Mascota	gato persa
+FPH218004	104	Artista pop	Taylor Swift
+FPH218005	105	Actor femenino	Scarlett Johansson
+FPH218006	106	Gobierno	Vicente Fox
+FPH218007	107	Comida	Barbacoa
+FPH218008	108	Programa de televisión	Narcos
+FPH218009	109	Pelicula Disney	Blancanieves y los Siete Enanitos
+FPH218010	110	Cena	Filete a la pimienta
+FPH218011	111	Dibujos animados	Transformers
+FPH218012	112	Jugador de baloncesto	Lebron james
+FPH218013	113	Mascota	gato siames
+FPH218014	114	Desayuno	Huevos Divorciados
+FPH218015	115	Telenovela	Pasión de Gavilanes
+FPH218016	116	Marca famosa	Reebok
+FPH218017	117	Dibujos animados	Teenage Mutant Ninja Turtles
+FPH218018	118	Actor masculino	Gael García Bernal
+FPH218019	119	Animal	Rinoceronte
+FPH218020	120	Personaje de disney	Lightning McQueen
+FPH218021	121	Película de terror	El resplandor
+FPH218022	122	Artista pop	Justin bieber
+FPH218023	123	Vehículo	Ford Ka
+FPH218024	124	Videojuego	Legend of zelda
+FPH218025	125	Animal del océano	Tiburon martillo
+FPH218026	126	Pájaro	sinsonte
+FPH218027	127	Artista del país	Jason aldean
+FPH218028	128	Videojuego	World of warcraft
+FPH218029	129	Canción de Disney	Parte de tu mundo
+FPH218030	130	Postre	Pan Dulce
+FPH218031	131	Pelicula Disney	La Bella y la Bestia
+FPH218032	132	Videojuego	Minecraft
+FPH218033	133	Vehículo	Toyota Hilux
+FPH218034	134	Dulce	Sour Patch Kids
+FPH218035	135	Beber	Jarritos
+FPH218036	136	Mascota	Conejo
+FPH218037	137	Artista de hip hop	Eminem
+FPH218038	138	Actor masculino	Arnold Schwarzenegger
+FPH218039	139	Personajes de Disney	Aladdin y Jasmine
+FPH218040	140	Gobierno	Ernesto Zedillo
+FPH218041	141	Ciudad latinoamericana	Ciudad de puebla
+FPH218042	142	Película de acción	Inframundo
+FPH218043	143	Mascota	Jack Russell Terrier
+FPH218044	144	Telenovela	Rubí
+FPH218045	145	Jugador de baloncesto	Shaquille O'Neal
+FPH218046	146	Mascotas exóticas	Boa constrictor
+FPH218047	147	Marca de tecnología	YouTube
+FPH218048	148	Canción de Disney	De nada
+FPH218049	149	Actor masculino	Clint Eastwood
+FPH218050	150	Película de acción	El quinto elemento
+FPH218051	151	Programa de televisión	The Walking Dead
+FPH218052	152	País	Nueva Zelanda
+FPH218053	153	Evento	Guelaguetza
+FPH218054	154	Pelicula Disney	High School Musical
+FPH218055	155	Marca de café	Nescafe
+FPH218056	156	Película de acción	El vengador del futuro
+FPH218057	157	Cena	Tortas
+FPH218058	158	Banda de rock	The Rolling Stones
+FPH218059	159	Actor masculino	Adam Sandler
+FPH218060	160	Película de acción	Hombres de Negro Internacional
+FPH218061	161	Desayuno	tostada francesa
+FPH218062	162	Animal del océano	Erizo de mar
+FPH218063	163	Marca de tecnología	Instagram
+FPH218064	164	Artista pop	Christian Nodal
+FPH218065	165	Mascota	Malamute de Alaska
+FPH218066	166	Gobierno	Benito Juarez
+FPH218067	167	Actor masculino	Daniel Radcliffe
+FPH218068	168	Reality show	Top Gear
+FPH218069	169	Comedia	El Simpsons
+FPH218070	170	Pájaro	Cisne trompetista
+FPH218071	171	Película de acción	Kill Bill
+FPH218072	172	País	Singapur
+FPH218073	173	Beber	Gin tonic
+FPH218074	174	Artista pop	Danna Paola
+FPH218075	175	Canción de Disney	Puedes sentir el amor esta noche
+FPH218076	176	Actor masculino	Tom Cruise
+FPH218077	177	Libro	Hansel y Gretel
+FPH218078	178	Vehículo	Honda Civic
+FPH218079	179	Ciudad latinoamericana	Ciudad Juárez
+FPH218080	180	Comedia	Mi pobre angelito
+FPH218081	181	Cena	Enchiladas
+FPH218082	182	Actor femenino	Emma Stone
+FPH218083	183	Animal del océano	Gran tiburón blanco
+FPH218084	184	Continente	América del norte
+FPH218085	185	Evento	Quinceañera
+FPH218086	186	Aperitivo	Sopa y ensalada
+FPH218087	187	Película de acción	Van Helsing
+FPH218088	188	Banda de rock	Led Zeppelin
+FPH218089	189	Videojuego	Grand Theft Auto
+FPH218090	190	Artista pop	Thalía
+FPH218091	191	Mascota	Cocker spaniel
+FPH218092	192	Pájaro	Flamenco
+FPH218093	193	Personaje de disney	Jack Skellington
+FPH218094	194	Actor femenino	Zoe Saldana
+FPH218095	195	Pelicula Disney	Cenicienta
+FPH218096	196	Banda de rock	The Beatles
+FPH218097	197	Actividad al aire libre	Escalada de roca
+FPH218098	198	Mascotas exóticas	Cangrejo ermitaño
+FPH218099	199	Cena	Filete de costilla
+FPH218100	200	Postre	churros
+FPH218101	201	País	Estados Unidos
+FPH218102	202	Comida	Barra de granola
+FPH218103	203	Ropa	Chaqueta de cuero
+FPH218104	204	Artista pop	Skrillex
+FPH218105	205	Canción de Disney	Colores del viento
+FPH218106	206	Actor masculino	Bruce Willis
+FPH218107	207	Ciudad latinoamericana	Ecatepec
+FPH218108	208	Marca famosa	Nestle
+FPH218109	209	Mascota	Chihuahua
+FPH218110	210	Desayuno	Cereales y leche
+FPH218111	211	Pelicula Disney	Peter Pan
+FPH218112	212	Continente	África
+FPH218113	213	Animal	Lobo ártico
+FPH218114	214	Postre	Helado
+FPH218115	215	Comedia	Qué pasó ayer?
+FPH218116	216	País	Corea del Sur
+FPH218117	217	Cena	Tacos al Pastor
+FPH218118	218	Animal del océano	tiburón tigre
+FPH218119	219	Ropa	Vaqueros
+FPH218120	220	Telenovela	Missing
+FPH218121	221	Actor femenino	Penélope Cruz
+FPH218122	222	Vehículo	Nissan Versa
+FPH218123	223	Canción de Disney	Todo un mundo nuevo
+FPH218124	224	Banda de rock	Guns N Roses
+FPH218125	225	Animal	Águila calva
+FPH218126	226	Desayuno	Enchiladas Enmoladas
+FPH218127	227	Mascota	Pez de colores
+FPH218128	228	Beber	zumo de naranja
+FPH218129	229	País	suizo
+FPH218130	230	Animal del océano	Medusa
+FPH218131	231	Dulce	Skittles
+FPH218132	232	Cena	Taquitos de res
+FPH218133	233	Marca famosa	Gorjeo
+FPH218134	234	Animal	Tigre de Bengala
+FPH218135	235	Pelicula Disney	La Sirenita
+FPH218136	236	Continente	Australia
+FPH218137	237	Ropa	Botas de invierno
+FPH218138	238	Ciudad latinoamericana	Tijuana
+FPH218139	239	Marca de café	Folgers
+FPH218140	240	Artista del país	Shania twain
+FPH218141	241	Película de acción	resident Evil
+FPH218142	242	Cena	Pozole
+FPH218143	243	Mascota	Doberman pinscher
+FPH218144	244	Banda de rock	Aerosmith
+FPH218145	245	Animal	Serpiente de cascabel
+FPH218146	246	País	Irlanda
+FPH218147	247	Marca famosa	Toshiba
+FPH218148	248	Postre	Pastel de tres leches jaspeado
+FPH218149	249	Actividad al aire libre	Cámping
+FPH218150	250	Insecto	Tarántula
+FPH218151	251	Ropa	Traje de baño
+FPH218152	252	Actor femenino	Emma Watson
+FPH218153	253	Canción de Disney	Déjalo ir
+FPH218154	254	Cena	Estofado de vegetales
+FPH218155	255	Mascota	Tortuga
+FPH218156	256	Dulce	Reese's Peanut Butter Cups
+FPH218157	257	Animal	Hipopótamo
+FPH218158	258	Actor masculino	Brad Pitt
+FPH218159	259	Programa de televisión	Breaking Bad
+FPH218160	260	Gobierno	Porfirio Díaz
+FPH218161	261	Vehículo	Volkswagen Gol
+FPH218162	262	Banda de rock	Black sabbath
+FPH218163	263	Insecto	Miel de abeja
+FPH218164	264	Telenovela	Alguien Te Mira
+FPH218165	265	País	Países Bajos
+FPH218166	266	Beber	Limonada
+FPH218167	267	Artista del país	Johnny cash
+FPH218168	268	Comedia	Las brujas
+FPH218169	269	Animal	Leopardo de nieve
+FPH218170	270	Actor masculino	Orlando Bloom
+FPH218171	271	Postre	Mousse de chocolate
+FPH218172	272	Actor femenino	Sofía Vergara
+FPH218173	273	Continente	Sudamerica
+FPH218174	274	Banda de rock	Red Hot Chili Peppers
+FPH218175	275	Ropa	Chaqueta amarilla
+FPH218176	276	Programa de televisión	Stranger Things
+FPH218177	277	Beber	Bloody Mary
+FPH218178	278	Gobierno	Lázaro Cárdenas
+FPH218179	279	Pelicula Disney	Artemis Fowl
+FPH218180	280	Ciudad latinoamericana	León
+FPH218181	281	Actor masculino	Michael Peña
+FPH218182	282	Ropa	Sandalias
+FPH218183	283	Animal	Cocodrilo
+FPH218184	284	Actividad al aire libre	Cabalgatas
+FPH218185	285	País	Rusia
+FPH218186	286	Programa de televisión	El cuento de la criada
+FPH218187	287	Postre	Tarta de queso
+FPH218188	288	Mascota	Border collie
+FPH218189	289	Marca de café	Café Chiapas
+FPH218190	290	Insecto	Mantis religiosa
+FPH218191	291	Banda de rock	Iron maiden
+FPH218192	292	Artista pop	Carlos Rivera
+FPH218193	293	Continente	Asia
+FPH218194	294	Beber	Chocolate caliente
+FPH218195	295	Pájaro	Halcón peregrino
+FPH218196	296	Película de acción	Mad Max: Furia en el camino
+FPH218197	297	Gobierno	Victoriano Huerta
+FPH218198	298	Animal	Puerco espín
+FPH218199	299	Actividad al aire libre	Caza y Pesca
+FPH218200	300	Canción de Disney	El amor es una puerta abierta
+FPH218201	301	Programa de televisión	Peaky Blinders
+FPH218202	302	País	Israel
+FPH218203	303	Película de acción	Alien
+FPH218204	304	Comedia	Bad Boys para siempre
+FPH218205	305	Pelicula Disney	La Bella Durmiente
+FPH218206	306	Desayuno	Quiche de queso
+FPH218207	307	Postre	Pastel de Elote
+FPH218208	308	Actividad al aire libre	Patineta
+FPH218209	309	Artista pop	Alfredo Olivas
+FPH218210	310	Marca de café	Café Allegro
+FPH218211	311	Ropa	Gabardina
+FPH218212	312	Vehículo	Chrysler Voyager
+FPH218213	313	Beber	Tequila
+FPH218214	314	Gobierno	Vicente Guerrero
+FPH218215	315	Canción de Disney	Círculo de la vida
+FPH218216	316	Jugador de baloncesto	Kevin Durant
+FPH218217	317	Insecto	Saltamontes
+FPH218218	318	Personaje de ficción	Luke Skywalker
+FPH218219	319	Actor masculino	Edward Norton
+FPH218220	320	Cena	Pizza de peperoni
+FPH218221	321	Anatomía	Sistema cardiovascular
+FPH218222	322	Banda de rock	Imagine Dragons
+FPH218223	323	Programa de televisión	Mayans M.C.
+FPH218224	324	Videojuego	League of Legends
+FPH218225	325	Comedia	Dos bribones tras la esmeralda perdida
+FPH218226	326	Postre	pie de manzana
+FPH218227	327	País	Afganistán
+FPH218228	328	Película de acción	Arma mortal
+FPH218229	329	Desayuno	Chilaquiles Rojos
+FPH218230	330	Actor femenino	Helena Bonham Carter
+FPH218231	331	Mascota	conejillo de indias
+FPH218232	332	Reality show	Un soltero en el paraíso
+FPH218233	333	Película de terror	Duende
+FPH218234	334	Animal del océano	Calamar gigante
+FPH218235	335	Continente	Antártida
+FPH218236	336	Artista pop	Becky G
+FPH218237	337	Personaje de ficción	Optimus prime
+FPH218238	338	Pájaro	Gran búho cornado
+FPH218239	339	Tienda al por menor	Bodega Aurrerá
+FPH218240	340	Planeta	Neptuno
+FPH218241	341	Pájaro	Cardenal
+FPH218242	342	Pelicula Disney	Monstruos, SA
+FPH218243	343	País	República Dominicana
+FPH218244	344	Animal	Chimpancé
+FPH218245	345	Vegetal	Coliflor
+FPH218246	346	Planta	Sauce llorón
+FPH218247	347	Banda de metal	Metallica
+FPH218248	348	Programa de televisión	Buffy, la caza vampiros
+FPH218249	349	Jugador de baloncesto	Stephen curry
+FPH218250	350	Comedia	Querida, encogí a los niños
+FPH218251	351	Postre	Mostachon de Fresa
+FPH218252	352	Ciudad latinoamericana	Gustavo Adolfo Madero
+FPH218253	353	Beber	Té negro
+FPH218254	354	Personaje de disney	Capitán Garfio
+FPH218255	355	Fruta	fresa
+FPH218256	356	Ropa	Chaqueta letterman
+FPH218257	357	Actor femenino	Meryl Streep
+FPH218258	358	Tienda al por menor	Walmart
+FPH218259	359	Programa de televisión	La plaga
+FPH218260	360	Postre	Cheesecake de Dulce de Leche
+FPH218261	361	Pelicula Disney	Mary poppins
+FPH218262	362	Mascota	Yorkshire Terrier
+FPH218263	363	Película de terror	El proyecto de la bruja de Blair
+FPH218264	364	Actor masculino	Harrison ford
+FPH218265	365	País	Alemania
+FPH218266	366	Animal	Canguro
+FPH218267	367	Personaje de ficción	Harry Potter
+FPH218268	368	Cena	Mollete
+FPH218269	369	Película de acción	Starship Troopers
+FPH218270	370	Comedia	El show de Larry David
+FPH218271	371	Actividad al aire libre	Voleibol de playa
+FPH218272	372	Videojuego	Angry Birds
+FPH218273	373	Gobierno	Miguel Alemán
+FPH218274	374	Reality show	Mythbusters
+FPH218275	375	Animal del océano	Caballo de mar
+FPH218276	376	Jugador de baloncesto	Russell westbrook
+FPH218277	377	Canción de Disney	Pobres almas desafortunadas
+FPH218278	378	Artista pop	Alemán
+FPH218279	379	Anatomía	Esternón
+FPH218280	380	Banda de rock	Pink floyd
+FPH218281	381	Artista del país	Patsy Cline
+FPH218282	382	Desayuno	Bagel y queso crema
+FPH218283	383	País	Reino Unido
+FPH218284	384	Postre	Galleta de mantequilla de maní
+FPH218285	385	Comedia	Seinfeld
+FPH218286	386	Pelicula Disney	Buscando a Nemo
+FPH218287	387	Actor femenino	Eva Mendes
+FPH218288	388	Pájaro	Pájaro carpintero
+FPH218289	389	Actor masculino	Diego Luna
+FPH218290	390	Beber	Jugo de uva
+FPH218291	391	Programa de televisión	Who Killed Sara?
+FPH218292	392	Película de acción	El perfecto asesino
+FPH218293	393	Personaje de ficción	El joven manos de tijera
+FPH218294	394	Animal	Ardilla
+FPH218295	395	Ropa	Vestido de coctail
+FPH218296	396	País	Indonesia
+FPH218297	397	Reality show	Nosotros los guapos
+FPH218298	398	Vehículo	Renault Kwid
+FPH218299	399	Artista pop	Adele
+FPH218300	400	Cena	Pollo teriyaki
+FPH218301	401	Planeta	Mercurio
+FPH218302	402	Programa de televisión	Oscuro deseo
+FPH218303	403	Ciudad latinoamericana	Iztapalapa
+FPH218304	404	Comedia	Los ilusionistas: Nada es lo que parece
+FPH218305	405	Banda de metal	Pantera
+FPH218306	406	Canción de Disney	Justo alrededor de la curva del río
+FPH218307	407	Mascota	Gran Danés
+FPH218308	408	Comida rápida	McDonald's
+FPH218309	409	Animal	Dragon de Komodo
+FPH218310	410	Actor femenino	Jessica Alba
+FPH218311	411	Artista de hip hop	Tupac Shakur
+FPH218312	412	Desayuno	tostada de aguacate
+FPH218313	413	Actividad al aire libre	Ultimate Frisbee
+FPH218314	414	Pelicula Disney	Enredados
+FPH218315	415	País	Bélgica
+FPH218316	416	Música clásica	Wolfgang Amadeus Mozart
+FPH218317	417	Videojuego	Street fighter
+FPH218318	418	Dulce	Caramelo de agua salada
+FPH218319	419	Actor masculino	George Clooney
+FPH218320	420	Beber	Margarita
+FPH218321	421	Gobierno	Adolfo de la Huerta
+FPH218322	422	Tienda al por menor	Costco Wholesale
+FPH218323	423	Punto de referencia	Golden Gate Bridge
+FPH218324	424	Personaje de ficción	Katniss Everdeen
+FPH218325	425	Artista del país	George strait
+FPH218326	426	Animal	Elefante
+FPH218327	427	Postre	Creme brulee
+FPH218328	428	Comida	Caldo de camaron
+FPH218329	429	Artista pop	Jennifer lopez
+FPH218330	430	Programa de televisión	Law and Order
+FPH218331	431	Anatomía	Articulaciones y tendones
+FPH218332	432	Reality show	Top Gear
+FPH218333	433	Planta	árbol de hoja perenne
+FPH218334	434	Cena	Sopa de almejas
+FPH218335	435	País	Madagascar
+FPH218336	436	Pelicula Disney	Piratas del Caribe
+FPH218337	437	Pájaro	Gaviota
+FPH218338	438	Banda de rock	Panic at the Disco
+FPH218339	439	Comedia	Austin powers
+FPH218340	440	Comida	Chile relleno
+FPH218341	441	Actor femenino	Jennifer Lopez
+FPH218342	442	Tienda al por menor	City Market
+FPH218343	443	Película de terror	La maldición renace
+FPH218344	444	Animal del océano	Pulpo
+FPH218345	445	Ropa	Bata de baño
+FPH218346	446	Artista pop	Janet Jackson
+FPH218347	447	Beber	Latte de calabaza y especias
+FPH218348	448	Personaje de ficción	Kermit la rana
+FPH218349	449	Vehículo	Volkswagen Polo
+FPH218350	450	Comida rápida	Burger King
+FPH218351	451	Música clásica	Moonlight sonata
+FPH218352	452	Programa de televisión	The Bridge
+FPH218353	453	País	Brasil
+FPH218354	454	Personaje de disney	Rapunzel
+FPH218355	455	Videojuego	Final fantasy
+FPH218356	456	Mascota	Pomeranio
+FPH218357	457	Planeta	Tierra
+FPH218358	458	Dulce	Osito de goma
+FPH218359	459	Ciudad latinoamericana	Zapopan
+FPH218360	460	Coche	Tesla Model X
+FPH218361	461	Anatomía	Páncreas
+FPH218362	462	Ocupación	Astronauta
+FPH218363	463	Postre	Pastel de chocolate y chile
+FPH218364	464	Punto de referencia	Sydney Opera House
+FPH218365	465	Tienda al por menor	Comercial Mexicana
+FPH218366	466	Música clásica	Johann sebastian bach
+FPH218367	467	Película de acción	Minority Report
+FPH218368	468	Actividad al aire libre	Avistamiento de ballenas
+FPH218369	469	País	El Salvador
+FPH218370	470	Cena	Pescado y papas fritas
+FPH218371	471	Actor masculino	Sylvester Stallone
+FPH218372	472	Beber	Té verde
+FPH218373	473	Programa de televisión	Control Z
+FPH218374	474	Marca de café	Coffee House
+FPH218375	475	Insecto	Oruga
+FPH218376	476	Pelicula Disney	El Emperador y sus Locuras
+FPH218377	477	Película de terror	Invisible Man
+FPH218378	478	Comedia	Nacho Libre
+FPH218379	479	Fruta	Sandía
+FPH218380	480	Comida rápida	Subway
+FPH218381	481	Planta	Rosa roja
+FPH218382	482	Postre	Galleta con chispas de chocolate
+FPH218383	483	Personaje de ficción	Fred flintstone
+FPH218384	484	Mascota	Pitón bola
+FPH218385	485	País	Camboya
+FPH218386	486	Banda de metal	Slayer
+FPH218387	487	Desayuno	Honey Nut Cheerios
+FPH218388	488	Artista pop	Mariah carey
+FPH218389	489	Actor femenino	Eva Longoria
+FPH218390	490	Ropa	Camisa de entrenamiento
+FPH218391	491	Tienda al por menor	Fresko
+FPH218392	492	Videojuego	Counterstrike
+FPH218393	493	Programa de televisión	The Twilight Zone
+FPH218394	494	Beber	Paloma
+FPH218395	495	Continente	Europa
+FPH218396	496	Vehículo	Nissan Kicks
+FPH218397	497	Pelicula Disney	Goofy e Hijo
+FPH218398	498	Película de acción	Operación dragón
+FPH218399	499	Cena	Pollo y Brócoli
+FPH218400	500	País	Canadá
+FPH514001	501	Día festivo	Víspera de Todos los Santos
+FPH514002	502	Marca de café	Nespresso
+FPH514003	503	Mascota	dálmata
+FPH514004	504	Artista pop	Alicia keys
+FPH514005	505	Actor masculino	Demián Bichir
+FPH514006	506	Ciudad latinoamericana	Monterrey
+FPH514007	507	Comida	Espagueti y albóndigas
+FPH514008	508	Programa de televisión	El Chapo
+FPH514009	509	Pelicula Disney	Los Aristogatos
+FPH514010	510	Cena	Burrito de carne
+FPH514011	511	Dibujos animados	Tom y Jerry
+FPH514012	512	Tecnología	Teclado y ratón
+FPH514013	513	Coche	Volkswagen
+FPH514014	514	Desayuno	Tamales
+FPH514015	515	Artista pop	Bruno Mars
+FPH514016	516	Punto de referencia	Liberty bell
+FPH514017	517	Muebles	Sofá de cuero
+FPH514018	518	Música clásica	Fur Elise
+FPH514019	519	Animal	Mamba negro
+FPH514020	520	Personaje de disney	Maleficent
+FPH514021	521	Comida	Sope
+FPH514022	522	Artista pop	Fuerza Regida
+FPH514023	523	Reality show	Ultimate Beastmaster
+FPH514024	524	Videojuego	Pac Man
+FPH514025	525	Animales acuáticos	Ballena jorobada
+FPH514026	526	Artista pop	David Bowie
+FPH514027	527	Evento	Feria Nacional de San Marcos
+FPH514028	528	Videojuego	Tetris
+FPH514029	529	Dulce	Jelly Beans
+FPH514030	530	Película de acción	The Avengers
+FPH514031	531	Pelicula Disney	Lilo y Stitch
+FPH514032	532	Anatomía	Heart and arteries
+FPH514033	533	Comedia	Wizards
+FPH514034	534	Ocupación	Psiquiatra
+FPH514035	535	Programa de televisión	La Reina del Sur
+FPH514036	536	Mascota	Rottweiler
+FPH514037	537	Artista de hip hop	Snoop dogg
+FPH514038	538	Actor masculino	Heath Ledger
+FPH514039	539	Personajes de Disney	Esmeralda y Quasimodo
+FPH514040	540	Gobierno	Emilio Portes Gil
+FPH514041	541	Tienda al por menor	Sumesa
+FPH514042	542	Dulce	Swedish Fish
+FPH514043	543	Muebles	Mesa y sillas
+FPH514044	544	Aperitivo	Sopa francesa de cebolla
+FPH514045	545	Punto de referencia	Easter Island Cabezas
+FPH514046	546	Música clásica	Ludwig van Beethoven
+FPH514047	547	Tecnología	Google Sheets
+FPH514048	548	Canción de Disney	Amigo como yo
+FPH514049	549	Actor masculino	Liam Neeson
+FPH514050	550	Comida rápida	Taco Bell
+FPH514051	551	Programa de televisión	Selena: The Series
+FPH514052	552	Postre	Chocoflan
+FPH514053	553	Planta	Bambú
+FPH514054	554	Pelicula Disney	El Libro de la Selva
+FPH514055	555	Ciudad latinoamericana	Ciudad Nezahualcoyotl
+FPH514056	556	Coche	Volkswagen Jetta
+FPH514057	557	Cena	Salteado de pollo
+FPH514058	558	Pájaro	Pájaro azul
+FPH514059	559	Animal	Camaleón
+FPH514060	560	Muebles	Mesa final
+FPH514061	561	Desayuno	Burrito de desayuno
+FPH514062	562	Animales acuáticos	Tiburón toro
+FPH514063	563	Tecnología	Nintendo Switch
+FPH514064	564	Artista pop	Shakira
+FPH514065	565	País	República Checa
+FPH514066	566	Gobierno	Manuel González Flores
+FPH514067	567	Insecto	Ciempiés
+FPH514068	568	Reality show	Acapulco Shore
+FPH514069	569	Vehículo	Renault Sandero
+FPH514070	570	Pájaro	Cola de golondrina
+FPH514071	571	Dulce	Hershey's Kisses
+FPH514072	572	Muebles	Mostrador
+FPH514073	573	Punto de referencia	Catedral de San Basilio
+FPH514074	574	Artista pop	Frank Sinatra
+FPH514075	575	Canción de Disney	No puedo esperar a ser rey
+FPH514076	576	Personaje de ficción	Peter Griffin
+FPH514077	577	Música clásica	Sonata para piano
+FPH514078	578	Animal	Oso koala
+FPH514079	579	Reality show	Haunted: Latin America
+FPH514080	580	Ciudad latinoamericana	Chihuahua
+FPH514081	581	Cena	Tacos de carne asada
+FPH514082	582	Actor femenino	Rosario Dawson
+FPH514083	583	Animales acuáticos	Anguila electrica
+FPH514084	584	Tecnología	Teléfono inteligente
+FPH514085	585	Coche	Chevrolet Equinox
+FPH514086	586	Aperitivo	Ensalada César
+FPH514087	587	Dulce	Butterfinger
+FPH514088	588	Postre	Galletas y crema
+FPH514089	589	Videojuego	Candy Crush
+FPH514090	590	Muebles	Silla de oficina
+FPH514091	591	Mascota	Boston terrier
+FPH514092	592	Pájaro	Buitre
+FPH514093	593	Personajes de Disney	Jafar y Iago
+FPH514094	594	Punto de referencia	La torre inclinada de pisa
+FPH514095	595	Pelicula Disney	Oliver y su Pandilla
+FPH514096	596	Tecnología	Televisión de alta definición
+FPH514097	597	Planta	Lavanda
+FPH514098	598	Animales acuáticos	Marrajo
+FPH514099	599	Cena	Gringas
+FPH514100	600	Romance	Diario de una pasión
+FPH514101	601	Día festivo	Dia de la Constitucion
+FPH514102	602	Comida	Sandwich
+FPH514103	603	Mascota	Gato Scottish Fold
+FPH514104	604	Artista pop	Natanael Cano
+FPH514105	605	Animal	Leopardo
+FPH514106	606	Gobierno	Sebastián Lerdo de Tejada
+FPH514107	607	Telenovela	La Fea Más Bella
+FPH514108	608	Programa de televisión	El juego de las llaves
+FPH514109	609	Pelicula Disney	Tod y Toby
+FPH514110	610	Cena	Chalupa
+FPH514111	611	Dibujos animados	Adventure Time 
+FPH514112	612	Actividad al aire libre	Volar cometas
+FPH514113	613	Banda de rock	Café Tacvba
+FPH514114	614	Desayuno	Migas con Huevo
+FPH514115	615	Beber	leche de fresa
+FPH514116	616	Ropa	Gorra de beisbol
+FPH514117	617	Ocupación	Neurocientífico
+FPH514118	618	Punto de referencia	Pirámide del sol
+FPH514119	619	Animal	Demonio de Tasmania
+FPH514120	620	Personaje de disney	Mulan y Mushu
+FPH514121	621	Película de terror	Un lugar en silencio
+FPH514122	622	Planta	Árbol de hoja caduca
+FPH514123	623	Beber	Champurrado
+FPH514124	624	Videojuego	Super Smash Bros
+FPH514125	625	Animales acuáticos	Nutria de mar
+FPH514126	626	Pájaro	Halcón de cola roja
+FPH514127	627	Telenovela	Pedro el Escamoso
+FPH514128	628	Anatomía	Boca y garganta
+FPH514129	629	Canción de Disney	Cuando le pide a una estrella
+FPH514130	630	Muebles	Marco de la cama
+FPH514131	631	Pelicula Disney	El extraño mundo de Jack
+FPH514132	632	Actor femenino	Charlize Theron
+FPH514133	633	Vehículo	Chevrolet Prism
+FPH514134	634	Dulce	Jolly Rancher
+FPH514135	635	Beber	Te helado
+FPH514136	636	Mascota	Rata encapuchada
+FPH514137	637	Ciudad latinoamericana	Mérida
+FPH514138	638	Muebles	Gabinete de China
+FPH514139	639	Tienda al por menor	City Club
+FPH514140	640	Gobierno	Valentín Gómez Farías
+FPH514141	641	Fruta	Cantalupo
+FPH514142	642	Dulce	Tamales calientes
+FPH514143	643	Punto de referencia	Monte Rushmore
+FPH514144	644	Aperitivo	Papas fritas
+FPH514145	645	Banda de rock	Molotov
+FPH514146	646	Coche	Nissan sentra
+FPH514147	647	Tecnología	Netflix
+FPH514148	648	Canción de Disney	Tienes un amigo en mi
+FPH514149	649	Música clásica	Frederic Chopin
+FPH514150	650	Muebles	Mesa plegable
+FPH514151	651	Programa de televisión	Detective Conan
+FPH514152	652	País	Japón
+FPH514153	653	Actividad al aire libre	Bodyboarding
+FPH514154	654	Pelicula Disney	Merlin el Encantador
+FPH514155	655	Tienda al por menor	Soriana Mercado
+FPH514156	656	Ocupación	Dentista
+FPH514157	657	Cena	Carnitas
+FPH514158	658	Banda de rock	Twenty One Pilots
+FPH514159	659	Muebles	Mecedora
+FPH514160	660	Coche	Toyota camry
+FPH514161	661	Comida	Sopa de Tortilla
+FPH514162	662	Animales acuáticos	Angelote
+FPH514163	663	Tecnología	Zoom meeting
+FPH514164	664	Telenovela	Café con aroma de mujer
+FPH514165	665	Día festivo	Semana de Pascua
+FPH514166	666	Gobierno	Luis Echeverría
+FPH514167	667	Planeta	Marte
+FPH514168	668	Ropa	Blusa verde
+FPH514169	669	Cómico	Jerry Seinfeld
+FPH514170	670	Pájaro	Gran garza azul
+FPH514171	671	Punto de referencia	Great Sphinx of Giza
+FPH514172	672	País	Rusia
+FPH514173	673	Beber	Latte de té chai
+FPH514174	674	Actor femenino	Michelle Rodriguez
+FPH514175	675	Canción de Disney	Las necesidades básicas
+FPH514176	676	Ocupación	Arqueólogo
+FPH514177	677	Dulce	Laffy taffy
+FPH514178	678	Actividad al aire libre	Esquí acuático
+FPH514179	679	Tecnología	Adobe photoshop
+FPH514180	680	Planta	Clavel
+FPH514181	681	Cena	Cochinita Pibil
+FPH514182	682	Coche	Jeep grand cherokee
+FPH514183	683	Animales acuáticos	Ballena beluga
+FPH514184	684	Pasatiempo	Jardinería
+FPH514185	685	Ocupación	Director ejecutivo
+FPH514186	686	Telenovela	Mirada de mujer
+FPH514187	687	Música clásica	The Four Seasons
+FPH514188	688	Banda de rock	Nirvana
+FPH514189	689	Videojuego	Resident Evil
+FPH514190	690	Actor femenino	Melissa Fumero
+FPH514191	691	Comida rápida	El Pollo Feliz
+FPH514192	692	Pájaro	Grua
+FPH514193	693	Personaje de disney	Ursula
+FPH514194	694	Anatomía	Mano y dedos
+FPH514195	695	Pelicula Disney	Toy Story
+FPH514196	696	Banda de rock	Carlos Santana
+FPH514197	697	Actividad al aire libre	Avistamiento de aves
+FPH514198	698	Emoción	Felicidad
+FPH514199	699	Cena	Sopa de alubia blanca
+FPH514200	700	Ropa	Enaguas
+FPH514201	701	País	Barbados
+FPH514202	702	Comida	Tacos al carbon
+FPH514203	703	Vegetal	Judías verdes
+FPH514204	704	Punto de referencia	catedral de Notre Dame
+FPH514205	705	Canción de Disney	Quieres construir un muñeco de nieve?
+FPH514206	706	Tecnología	Monitor curvo
+FPH514207	707	Telenovela	Rebelde
+FPH514208	708	Marca famosa	Skechers
+FPH514209	709	Dulce	Lemonheads
+FPH514210	710	Comida rápida	Taco Cabana
+FPH514211	711	Pelicula Disney	Zootopia
+FPH514212	712	Pasatiempo	Talla de madera
+FPH514213	713	Animal	Murciélago de la fruta
+FPH514214	714	Postre	Trufa de chocolate
+FPH514215	715	Cómico	Robin Williams
+FPH514216	716	País	Suecia
+FPH514217	717	Ocupación	Técnico de emergencias médicas
+FPH514218	718	Animales acuáticos	Salmón rojo
+FPH514219	719	Ropa	Camiseta sin mangas
+FPH514220	720	Vegetal	Cebollino
+FPH514221	721	Reality show	Pequeños Gigantes
+FPH514222	722	Canción de Disney	Quiero ser como tu
+FPH514223	723	Emoción	Asombro
+FPH514224	724	Animal	Jirafa
+FPH514225	725	Día festivo	Dia de la Independencia
+FPH514226	726	Ropa	Vestido de maternidad
+FPH514227	727	Familia	Hermano y hermana
+FPH514228	728	País	Nicaragua
+FPH514229	729	Animales acuáticos	Elefante marino
+FPH514230	730	Dulce	Nerds Rope
+FPH514231	731	Cena	Pan de Lasaña y Ajo
+FPH514232	732	Aperitivo	Champiñones rellenos
+FPH514233	733	Animal	Ardilla
+FPH514234	734	Pelicula Disney	Tarzan
+FPH514235	735	Pasatiempo	Scrapbooking
+FPH514236	736	Ropa	Botas con plataforma
+FPH514237	737	Cómico	Ricky Gervais
+FPH514238	738	Forma	Rectángulo
+FPH514239	739	Día festivo	Vispera de Año Nuevo
+FPH514240	740	Artista del país	Rascal Flatts
+FPH514241	741	Fruta	Arándano
+FPH514242	742	Ocupación	Director de cine
+FPH514243	743	Emoción	Decepción
+FPH514244	744	Familia	Madre y padre
+FPH514245	745	Animal	Tortuga
+FPH514246	746	País	Malasia
+FPH514247	747	Romance	Titanic
+FPH514248	748	Postre	Brownies
+FPH514249	749	Actividad al aire libre	Mini golf
+FPH514250	750	Insecto	Cucaracha
+FPH514251	751	Ropa	Pantalones de yoga
+FPH514252	752	Fruta	Mandarina
+FPH514253	753	Canción de Disney	Hare un hombre de ti
+FPH514254	754	Cena	Jambalaya
+FPH514255	755	Aperitivo	Caldo de pollo
+FPH514256	756	Dulce	Chupete
+FPH514257	757	Animal	Leopardo
+FPH514258	758	Ocupación	Político
+FPH514259	759	Telenovela	Sin Senos No Hay Paraíso
+FPH514260	760	Gobierno	Gustavo Díaz Ordaz
+FPH514261	761	Beber	Café irlandés
+FPH514262	762	Banda de rock	Slipknot
+FPH514263	763	Insecto	Escarabajo rinoceronte
+FPH514264	764	Desayuno	Todo Bagel
+FPH514265	765	País	Sudáfrica
+FPH514266	766	Tienda al por menor	Sam's Club
+FPH514267	767	Artista del país	Tim McGraw
+FPH514268	768	Telenovela	Marielena
+FPH514269	769	Animal	Orangután
+FPH514270	770	Coche	Honda Accord
+FPH514271	771	Postre	Baked Alaska
+FPH514272	772	Tecnología	Computadora
+FPH514273	773	Pasatiempo	Fotografía
+FPH514274	774	Banda de rock	Ramones
+FPH514275	775	Insecto	Escarabajo hércules
+FPH514276	776	Programa de televisión	Star Trek
+FPH514277	777	Beber	Vodka Martini
+FPH514278	778	Gobierno	Miguel Alemán Valdés
+FPH514279	779	Pelicula Disney	Fantasia
+FPH514280	780	Planta	Jazmín
+FPH514281	781	Tienda al por menor	Liverpool
+FPH514282	782	Ropa	Vestido de noche
+FPH514283	783	Animal	Glotón
+FPH514284	784	Actividad al aire libre	Tenis
+FPH514285	785	País	Bulgaria
+FPH514286	786	Programa de televisión	The House of Flowers
+FPH514287	787	Postre	Yogurt congelado
+FPH514288	788	Dulce	Candy Corn
+FPH514289	789	Ciudad latinoamericana	Cancún
+FPH514290	790	Insecto	Luciérnaga
+FPH514291	791	Banda de rock	Pearl Jam
+FPH514292	792	Deporte	Béisbol
+FPH514293	793	Pasatiempo	Tejido de punto
+FPH514294	794	Muebles	Mesa del comedor
+FPH514295	795	Dibujos animados	Steven Universe
+FPH514296	796	Actor masculino	Louis C.K.
+FPH514297	797	Telenovela	When You Are Mine
+FPH514298	798	Animal	Sabueso
+FPH514299	799	Actividad al aire libre	Surf
+FPH514300	800	Canción de Disney	Algún día mi príncipe vendrá
+FPH514301	801	Programa de televisión	Lady of Steel
+FPH514302	802	País	Argelia
+FPH514303	803	Película de acción	The Expendables
+FPH514304	804	Vehículo	Toyota Corolla
+FPH514305	805	Pelicula Disney	Frozen
+FPH514306	806	Desayuno	Molletes
+FPH514307	807	Postre	Tarta de chocolate maya
+FPH514308	808	Actividad al aire libre	Autocinema
+FPH514309	809	Comida rápida	El Pechugón
+FPH514310	810	Reality show	Exatlón México
+FPH514311	811	Ropa	Pantalones de campana
+FPH514312	812	Tienda al por menor	Sears
+FPH514313	813	Beber	vino tinto
+FPH514314	814	Ropa	Mono
+FPH514315	815	Canción de Disney	Veo la luz
+FPH514316	816	Deporte	Baloncesto
+FPH514317	817	Insecto	Mariquita
+FPH514318	818	Personaje de ficción	Eric Cartman
+FPH514319	819	Comida rápida	La Casa de Toño
+FPH514320	820	Postre	Pudín de pan
+FPH514321	821	Anatomía	Talón y tobillo
+FPH514322	822	Banda de rock	Fall Out Boy
+FPH514323	823	Programa de televisión	The X-Files
+FPH514324	824	Videojuego	Clash of Clans
+FPH514325	825	Telenovela	Dos mujeres, un camino
+FPH514326	826	Postre	Magdalena
+FPH514327	827	País	Guatemala
+FPH514328	828	Dulce	Starburst
+FPH514329	829	Desayuno	Avena
+FPH514330	830	Tienda al por menor	Nordstrom
+FPH514331	831	Tecnología	Microsoft Xbox
+FPH514332	832	Ropa	Jersey deportivo
+FPH514333	833	Película de terror	Event Horizon
+FPH514334	834	Animales acuáticos	Pez espada
+FPH514335	835	Actividad al aire libre	Corriendo
+FPH514336	836	Programa de televisión	The Doors of Time
+FPH514337	837	Personaje de ficción	Speedy Gonzales
+FPH514338	838	Comida rápida	Carl's Junior
+FPH514339	839	Tienda al por menor	Woolworth
+FPH514340	840	Planeta	Urano
+FPH514341	841	Pájaro	Robin
+FPH514342	842	Pelicula Disney	Robin Hood
+FPH514343	843	País	Cameroon
+FPH514344	844	Animal	Mamut lanudo
+FPH514345	845	Beber	Leche con chocolate
+FPH514346	846	Planta	Chrysanthemum
+FPH514347	847	Personaje de ficción	Superman
+FPH514348	848	Programa de televisión	Sin Senos No Hay Paraíso
+FPH514349	849	Animales acuáticos	Estrella de mar
+FPH514350	850	Tienda al por menor	Bed Bath and Beyond
+FPH514351	851	Tecnología	Internet
+FPH514352	852	Reality show	Shark Tank
+FPH514353	853	Beber	Piña colada
+FPH514354	854	Personaje de disney	Prince Eric
+FPH514355	855	Fruta	Toronja
+FPH514356	856	Ropa	Pantalones
+FPH514357	857	Comida rápida	Domino's Pizza
+FPH514358	858	Muebles	Sofá de dos plazas
+FPH514359	859	Vegetal	Brócoli
+FPH514360	860	Postre	Pastel de zanahoria
+FPH514361	861	Pelicula Disney	Hercules
+FPH514362	862	Pájaro	Cuervo
+FPH514363	863	Película de terror	El exorcista
+FPH514364	864	Planeta	Venus
+FPH514365	865	País	Jamaica
+FPH514366	866	Animal	Marmota
+FPH514367	867	Telenovela	María Mercedes
+FPH514368	868	Insecto	Libélula
+FPH514369	869	Ocupación	Programador
+FPH514370	870	Beber	Ajenjo
+FPH514371	871	Actividad al aire libre	Hockey callejero
+FPH514372	872	Día festivo	Dia de La Raza
+FPH514373	873	Ropa	Traje de baño
+FPH514374	874	Coche	Jeep Wrangler
+FPH514375	875	Animales acuáticos	Tiburón ballena
+FPH514376	876	Punto de referencia	El Coliseo
+FPH514377	877	Canción de Disney	Estarás en mi corazon
+FPH514378	878	Tienda al por menor	Coppel
+FPH514379	879	Anatomía	Estómago e intestinos
+FPH514380	880	Banda de rock	Green Day
+FPH514381	881	Beber	Atole
+FPH514382	882	Postre	Ancho chilli and date chocolate tart
+FPH514383	883	País	Mongolia
+FPH514384	884	Comida rápida	Wingstop
+FPH514385	885	Animal	Salamandra
+FPH514386	886	Pelicula Disney	Aladdin
+FPH514387	887	Tienda al por menor	Tiendas Extra
+FPH514388	888	Pájaro	Águila pescadora
+FPH514389	889	Comida rápida	Kentucky Fried Chicken
+FPH514390	890	Beber	Whisky
+FPH514391	891	Película de terror	Final Destination
+FPH514392	892	Coche	Ford Explorer
+FPH514393	893	Personaje de ficción	Hannibal Lecter
+FPH514394	894	Animal	Oso grizzly
+FPH514395	895	Ropa	Camisa con botones
+FPH514396	896	País	Etiopía
+FPH514397	897	Reality show	The Bachelorette
+FPH514398	898	Dulce	Peppermint York
+FPH514399	899	Día festivo	Dia de los Niños Heroes
+FPH514400	900	Telenovela	Marimar
+FPH514401	901	Planeta	Saturno
+FPH514402	902	Programa de televisión	Monarca
+FPH514403	903	Música clásica	Violonchelo y piano
+FPH514404	904	Ciudad latinoamericana	Saltillo
+FPH514405	905	Comida	Cemita
+FPH514406	906	Canción de Disney	Estar preparado
+FPH514407	907	Aperitivo	Queso Fundido
+FPH514408	908	Postre	Donuts de canela
+FPH514409	909	País	Sri Lanka
+FPH514410	910	Tecnología	Playstation
+FPH514411	911	Tienda al por menor	Grupo Sanborns
+FPH514412	912	Postre	Helado de canela frito
+FPH514413	913	Actividad al aire libre	Bicicleta de montaña
+FPH514414	914	Pelicula Disney	El Libro de la Selva
+FPH514415	915	País	Venezuela
+FPH514416	916	Música clásica	Antonio Vivaldi
+FPH514417	917	Reality show	Nailed It
+FPH514418	918	Dulce	Nestle Crunch
+FPH514419	919	Planta	Calla Lily
+FPH514420	920	Beber	Gatorade
+FPH514421	921	Pájaro	Tucán
+FPH514422	922	Tienda al por menor	Chedraui
+FPH514423	923	Punto de referencia	Eiffel Tower
+FPH514424	924	Personaje de ficción	Jon Snow
+FPH514425	925	Vehículo	Ford Fiesta
+FPH514426	926	Animal	Antílope
+FPH514427	927	Postre	Donas de chocolate mexicano
+FPH514428	928	Punto de referencia	La Gran Muralla de China
+FPH514429	929	Artista pop	Madonna
+FPH514430	930	Programa de televisión	Soy Luna
+FPH514431	931	Anatomía	Esqueleto humano
+FPH514432	932	Beber	Aguas Frescas
+FPH514433	933	Planta	Venus atrapamoscas
+FPH514434	934	Día festivo	Dia de la Marina
+FPH514435	935	País	Filipinas
+FPH514436	936	Pelicula Disney	El Rey León
+FPH514437	937	Pájaro	Faisán
+FPH514438	938	Banda de rock	Foo Fighters
+FPH514439	939	Programa de televisión	La desalmada
+FPH514440	940	Postre	Postes helados de fresas y nata
+FPH514441	941	Planta	Cactus
+FPH514442	942	Comida	Apio y mantequilla de maní
+FPH514443	943	Película de terror	Get out
+FPH514444	944	Animales acuáticos	Pez payaso
+FPH514445	945	Ropa	Chandal
+FPH514446	946	Artista pop	Gwen Stefani
+FPH514447	947	Beber	Jugo de manzana
+FPH514448	948	Telenovela	Humble Maria
+FPH514449	949	Ciudad latinoamericana	Acapulco
+FPH514450	950	Comida rápida	Chipotle Mexican Grill
+FPH514451	951	Música clásica	Ave María
+FPH514452	952	Programa de televisión	South Park
+FPH514453	953	País	Austria
+FPH514454	954	Personaje de ficción	Hermione Granger
+FPH514455	955	Videojuego	Fortnite
+FPH514456	956	Beber	Horchata
+FPH514457	957	Planeta	Júpiter
+FPH514458	958	Dulce	Snickers
+FPH514459	959	Fruta	Pimiento morrón
+FPH514460	960	Vehículo	Chevrolet Silverado
+FPH514461	961	Anatomía	Cráneo y cerebro
+FPH514462	962	Ocupación	Profesor de matemáticas
+FPH514463	963	Postre	Tiramisu
+FPH514464	964	Punto de referencia	Estatua de la Libertad
+FPH514465	965	Tienda al por menor	Pineda Covalin
+FPH514466	966	Música clásica	Canon en D
+FPH514467	967	Muebles	Colchón
+FPH514468	968	Actividad al aire libre	Béisbol
+FPH514469	969	País	Bahamas
+FPH514470	970	Cena	Cabrito
+FPH514471	971	Vegetal	Lechuga romana
+FPH514472	972	Beber	Sidra dura
+FPH514473	973	Vehículo	Ford Puma
+FPH514474	974	Reality show	Mexican Dynasties
+FPH514475	975	Insecto	Abejorro
+FPH514476	976	Pelicula Disney	Pocahontas
+FPH514477	977	Película de terror	Pesadilla en la calle del infierno
+FPH514478	978	Día festivo	Dia de la Bandera
+FPH514479	979	Fruta	Piña
+FPH514480	980	Muebles	Librero
+FPH514481	981	Planta	Girasol
+FPH514482	982	Telenovela	Amores Cruzados
+FPH514483	983	Personaje de ficción	Dark Vador
+FPH514484	984	Mascota	Galgo
+FPH514485	985	País	Argentina
+FPH514486	986	Comida rápida	Qdoba
+FPH514487	987	Desayuno	Huevos revueltos
+FPH514488	988	Artista pop	Natti Natasha
+FPH514489	989	Dulce	Lifesavers
+FPH514490	990	Ropa	Sweater
+FPH514491	991	Beber	Tejate
+FPH514492	992	Videojuego	Mario Kart
+FPH514493	993	Programa de televisión	El Señor de los Cielos
+FPH514494	994	Reality show	Quién es la máscara
+FPH514495	995	Actividad al aire libre	Caza
+FPH514496	996	Vehículo	Fiat Argo
+FPH514497	997	Pelicula Disney	Pinocho
+FPH514498	998	Ocupación	Oficial de policía
+FPH514499	999	Comida	Nachos de carne
+FPH514500	1000	País	Costa Rica
+FPH514501	1001	Color	En blanco y negro
+FPH514502	1002	Bioma	Prado floreciente
+FPH514503	1003	Emociones	Calma y calculada
+FPH514504	1004	Película de terror	Cloverfield
+FPH514505	1005	Personaje de ficción	Wonder Woman
+FPH514506	1006	Cocinando	Olla a presión
+FPH514507	1007	Idioma	Noruego
+FPH514508	1008	Día festivo	Cumpleaños de Benito Juarez
+FPH514509	1009	Criatura mítica	Dragón que escupe fuego
+FPH514510	1010	De vuelta a la escuela	Experimento de laboratorio
+FPH514511	1011	Rocas y minerales	Cuarzo rosa
+FPH514512	1012	Instrumento musical	Bajo
+FPH514513	1013	Estado de EE. UU.	California
+FPH514514	1014	En la granja	Pollos y gallos
+FPH514515	1015	Elementos	Hidrógeno y helio
+FPH514516	1016	Beber	Ponche Navideño
+FPH514517	1017	En la playa	Cangrejo ermitaño
+FPH514518	1018	Pelicula Disney	Winnie the Pooh
+FPH514519	1019	Familia	Sobrina y sobrino
+FPH514520	1020	Emociones	Optimista o pesimista
+FPH514521	1021	Idioma	Lenguaje de señas
+FPH514522	1022	Postre	Helado de chispas de chocolate
+FPH514523	1023	Hierbas y especias	Jengibre rallado
+FPH514524	1024	Criaturas míticas	Hadas y elfos
+FPH514525	1025	País	Corea del Norte
+FPH514526	1026	Banda de rock	Bon Jovi
+FPH514527	1027	Color	Naranja brillante
+FPH514528	1028	De vuelta a la escuela	Asignación de tareas
+FPH514529	1029	Instrumento musical	Saxofón
+FPH514530	1030	Cocinando	Cucharilla
+FPH514531	1031	Bioma	Bosque caducifolio
+FPH514532	1032	En la playa	Salvavidas de turno
+FPH514533	1033	Rocas y minerales	Granate y Citrino
+FPH514534	1034	Telenovela	La Heredera
+FPH514535	1035	Actividad al aire libre	Esquiar en la nieve
+FPH514536	1036	Elemento	Aluminio
+FPH514537	1037	Familia	Bisabuela
+FPH514538	1038	En la granja	Huevos y Leche
+FPH514539	1039	Emociones	Amor y afecto
+FPH514540	1040	Criaturas míticas	Sirenas y sirenas
+FPH514541	1041	Idioma	Ruso
+FPH514542	1042	Cocinando	Microondas
+FPH514543	1043	Animal	Erizo
+FPH514544	1044	Hierbas y especias	Ajo picado
+FPH514545	1045	Cena	Machaca
+FPH514546	1046	Instrumento musical	Harmónica
+FPH514547	1047	País	Hungría
+FPH514548	1048	Bioma	Sunny Savannah
+FPH514549	1049	De vuelta a la escuela	Libreta de espiral
+FPH514550	1050	Personajes de ficción	Romeo y Julieta
+FPH514551	1051	En la playa	Conchas marinas rotas
+FPH514552	1052	Rocas y minerales	Pepita de oro
+FPH514553	1053	Criatura mítica	Vampiro chupa sangre
+FPH514554	1054	Colores	Gris y amarillo
+FPH514555	1055	Reality show	Survivor México
+FPH514556	1056	Postre	Helado de caramelo salado
+FPH514557	1057	Emoción	Fascinación desconcertada
+FPH514558	1058	Familia	Medio hermano
+FPH514559	1059	En la granja	Azada y pico
+FPH514560	1060	Hierbas y especias	Canela molida
+FPH514561	1061	Idioma	Chino Mandarín
+FPH514562	1062	Instrumento musical	Tambor y baquetas
+FPH514563	1063	De vuelta a la escuela	Libro de texto en inglés
+FPH514564	1064	Cocinando	Ensaladera
+FPH514565	1065	Elementos	Cobalto y Cobre
+FPH514566	1066	País	Dinamarca
+FPH514567	1067	Animal	Cebra rayada
+FPH514568	1068	Criatura mítica	Monstruo del lago Ness
+FPH514569	1069	Personaje de ficción	Pantera negra
+FPH514570	1070	Beber	Cerveza Margaritas
+FPH514571	1071	Desayuno	Pozole Verde
+FPH514572	1072	Día festivo	Dia de los Fieles Difuntos
+FPH514573	1073	Estado de EE. UU.	Washington
+FPH514574	1074	Familia	Esposo y esposa
+FPH514575	1075	Emoción	Insatisfacción
+FPH514576	1076	Colores	Melocotón y albaricoque
+FPH514577	1077	Rocas y minerales	Rubí y espinela
+FPH514578	1078	De vuelta a la escuela	Portaminas
+FPH514579	1079	Cocinando	Salero
+FPH514580	1080	Instrumento musical	Clave
+FPH514581	1081	Idioma	sueco
+FPH514582	1082	Hierbas y especias	Cebollas y cebolletas
+FPH514583	1083	Criaturas míticas	Fantasmas y demonios
+FPH514584	1084	En la granja	Pala y rastrillo
+FPH514585	1085	Elemento	Neón y argón
+FPH514586	1086	Bioma	Sur de Bayou
+FPH514587	1087	País	Vietnam
+FPH514588	1088	Muebles	Mesa final
+FPH514589	1089	Ocupación	Contador
+FPH514590	1090	En la playa	Kayak y remo
+FPH514591	1091	Animal	Oso polar
+FPH514592	1092	Telenovela	Like in the Movies
+FPH514593	1093	Emociones	Bondad y compasión
+FPH514594	1094	De vuelta a la escuela	Glosario de términos
+FPH514595	1095	Cocinando	Rodillo
+FPH514596	1096	Familia	Hijastra
+FPH514597	1097	Cena	Gorditas
+FPH514598	1098	Criatura mítica	Frankenstein
+FPH514599	1099	Rocas y minerales	Piedra de la luna
+FPH514600	1100	Instrumentos musicales	Piccolo y flauta
+FPH514601	1101	Color	Bronce y Cobre
+FPH514602	1102	Elemento	Potasio
+FPH514603	1103	Idioma	turco
+FPH514604	1104	Hierbas y especias	Eneldo picado
+FPH514605	1105	En la granja	Cordero y oveja
+FPH514606	1106	Ocupación	Geólogo
+FPH514607	1107	Pelicula Disney	Jim y el durazno gigante
+FPH514608	1108	País	República Centroafricana
+FPH514609	1109	De vuelta a la escuela	Álgebra y trigonometría
+FPH514610	1110	En la playa	Un grupo de medusas
+FPH514611	1111	Emoción	Agotado y drenado
+FPH514612	1112	Personaje de ficción	Princess Peach
+FPH514613	1113	Bioma	Highland River
+FPH514614	1114	Criatura mítica	Cambiaformas
+FPH514615	1115	Instrumento musical	bongos
+FPH514616	1116	Cocinando	Hervido duro o suave
+FPH514617	1117	Familia	Hijastra
+FPH514618	1118	Rocas y minerales	Cristal de cuarzo
+FPH514619	1119	Banda de rock	Paramore
+FPH514620	1120	Elemento	Sodio y azufre
+FPH514621	1121	Idioma	polaco
+FPH514622	1122	Desayuno	Quesadillas
+FPH514623	1123	Hierbas y especias	Una cucharadita de clavo
+FPH514624	1124	Color	Rojo, blanco y azul
+FPH514625	1125	De vuelta a la escuela	Laboratorio de química
+FPH514626	1126	En la granja	Aves de corral y carne de res
+FPH514627	1127	Beber	Agua de Jamaica
+FPH514628	1128	Instrumento musical	Triángulo y campanillas
+FPH514629	1129	Criatura mítica	unicornio arcoiris
+FPH514630	1130	En la playa	Sombrilla y toalla
+FPH514631	1131	Emoción	Asco estremecedor
+FPH514632	1132	Día festivo	Dia de la Revolucion
+FPH514633	1133	Cena	Alambre
+FPH514634	1134	Rocas y minerales	Oro de tontos
+FPH514635	1135	Cocinando	Tazones para mezclar
+FPH514636	1136	Videojuego	Metal Gear Solid
+FPH514637	1137	Familia	Gran tío
+FPH514638	1138	Animal	Serpiente de coral
+FPH514639	1139	Reality show	Mexicanicos
+FPH514640	1140	Bioma	Pantano turbio
+FPH514641	1141	Idioma	francés
+FPH514642	1142	Hierbas y especias	Orégano y perejil
+FPH514643	1143	De vuelta a la escuela	Preguntas y respuestas
+FPH514644	1144	Criatura mítica	Horda de zombis no muertos
+FPH514645	1145	Color	Azul y verde
+FPH514646	1146	Personaje de ficción	Conde Drácula
+FPH514647	1147	Telenovela	La Dueña
+FPH514648	1148	Emoción	Generoso y generoso
+FPH514649	1149	Instrumento musical	Guitarra acustica
+FPH514650	1150	En la granja	Tractor y segadora
+FPH514651	1151	Elemento	Estaño y zinc
+FPH514652	1152	Rocas y minerales	Ámbar y fósil
+FPH514653	1153	En la playa	Advertencia de marea alta
+FPH514654	1154	Cocinando	Taza medidora
+FPH514655	1155	Idioma	inglés
+FPH514656	1156	Reality show	La más draga
+FPH514657	1157	De vuelta a la escuela	sacapuntas
+FPH514658	1158	Criatura mítica	Golem y Troll
+FPH514659	1159	Familia	La novia y el novio
+FPH514660	1160	País	Noruega
+FPH514661	1161	Coche	Toyota highlander
+FPH514662	1162	Bioma	Arrecife de coral
+FPH514663	1163	Color	Cian y esmeralda
+FPH514664	1164	Instrumento musical	Flauta dulce y oboe
+FPH514665	1165	Beber	Aguardiente de menta
+FPH514666	1166	Hierbas y especias	Ají picante
+FPH514667	1167	Emoción	De trato fácil
+FPH514668	1168	En la granja	Pasto abierto
+FPH514669	1169	Rocas y minerales	Diamante
+FPH514670	1170	De vuelta a la escuela	Pizarra
+FPH514671	1171	Criatura mítica	Monstruo del pantano
+FPH514672	1172	Cocinando	Tabla de carnicero
+FPH514673	1173	Día festivo	Transmision del Poder Ejecutivo Federal
+FPH514674	1174	Idioma	Arábica
+FPH514675	1175	Familia	Madre adoptiva
+FPH514676	1176	Cena	Tacos de Pescado
+FPH514677	1177	En la playa	Fiesta en un yate
+FPH514678	1178	Elemento	Plomo y xenón
+FPH514679	1179	Pelicula Disney	Unidos
+FPH514680	1180	Personaje de ficción	Bart Simpson
+FPH514681	1181	De vuelta a la escuela	Historia mundial
+FPH514682	1182	Color	Verde de la selva
+FPH514683	1183	Hierbas y especias	Sal y pimienta
+FPH514684	1184	Bioma	Prado inundado
+FPH514685	1185	Emoción	Seguridad en uno mismo
+FPH514686	1186	Idioma	finlandés
+FPH514687	1187	Rocas y minerales	Lava y Magma
+FPH514688	1188	Criatura mítica	Coco
+FPH514689	1189	Ciudad latinoamericana	Oaxaca
+FPH514690	1190	Cocinando	Horno holandés
+FPH514691	1191	Familia	Yerno
+FPH514692	1192	En la granja	Granero rojo grande
+FPH514693	1193	Vehículo	Chevrolet Beat
+FPH514694	1194	De vuelta a la escuela	Tarea de geometría
+FPH514695	1195	Desayuno	Menudo
+FPH514696	1196	En la playa	Chaleco salvavidas
+FPH514697	1197	Elemento	Fósforo
+FPH514698	1198	Color	rojo carmesí
+FPH514699	1199	País	Túnez
+FPH514700	1200	Beber	Coca Cola
+FPH514701	1201	Película de terror	Doctor Sueño
+FPH514702	1202	Criatura mítica	Mummy
+FPH514703	1203	Bioma	Salina
+FPH514704	1204	Emoción	Agradablemente encantado
+FPH514705	1205	Rocas y minerales	Turmalina
+FPH514706	1206	Instrumento musical	Sintetizador
+FPH514707	1207	Hierbas y especias	Menta verde
+FPH514708	1208	De vuelta a la escuela	Salón de clases
+FPH514709	1209	Familia	Hermanastro
+FPH514710	1210	En la playa	Bosque de algas
+FPH514711	1211	Idioma	yídish
+FPH514712	1212	Cocinando	Plancha para gofres
+FPH514713	1213	Telenovela	Marisol
+FPH514714	1214	Criatura mítica	Cerberus
+FPH514715	1215	Color	Granate
+FPH514716	1216	País	Somalia
+FPH514717	1217	En la granja	Fertilizante
+FPH514718	1218	Elemento	Hierro y níquel
+FPH514719	1219	Beber	Ajenjo
+FPH514720	1220	Día festivo	Dia de Navidad
+FPH514721	1221	De vuelta a la escuela	Biología
+FPH514722	1222	Emoción	Sorpresa inesperada
+FPH514723	1223	Personaje de ficción	Obi-wan kenobi
+FPH514724	1224	Pelicula Disney	El planeta del tesoro
+FPH514725	1225	Bioma	Pozas de marea
+FPH514726	1226	En la playa	Descanso y relajación
+FPH514727	1227	Hierbas y especias	Pimentón rojo
+FPH514728	1228	Aperitivo	Chiles en nogada
+FPH514729	1229	Familia	Madrastra
+FPH514730	1230	Instrumento musical	Cuerno francés
+FPH514731	1231	Idioma	croata
+FPH514732	1232	Cocinando	Marinar
+FPH514733	1233	Color	De color amarillo pálido
+FPH514734	1234	De vuelta a la escuela	Ciencias de la Computación
+FPH514735	1235	Elemento	Berilio
+FPH514736	1236	Rocas y minerales	Estalactita
+FPH514737	1237	País	Marruecos
+FPH514738	1238	Vehículo	Fiat Strada
+FPH514739	1239	Criatura mítica	Ángeles y demonios
+FPH514740	1240	En la granja	Pollito
+FPH514741	1241	Emoción	Envidioso
+FPH514742	1242	Desayuno	Entomatadas rellenas de huevo
+FPH514743	1243	En la playa	palmeras
+FPH514744	1244	Telenovela	Gata Salvaje
+FPH514745	1245	Día festivo	Dia del padre
+FPH514746	1246	Color	Morado y naranja
+FPH514747	1247	De vuelta a la escuela	Geografía
+FPH514748	1248	Cocinando	Parte y pica
+FPH514749	1249	Idioma	rumano
+FPH514750	1250	Hierbas y especias	Cebolla verde
+FPH514751	1251	Instrumento musical	Órgano
+FPH514752	1252	Rocas y minerales	Amatista
+FPH514753	1253	Ocupación	Cardiólogo
+FPH514754	1254	Película de terror	El conjuro
+FPH514755	1255	País	Botswana
+FPH514756	1256	Familia	Tía abuela
+FPH514757	1257	Personaje de ficción	Deadpool
+FPH514758	1258	Elemento	Bromo
+FPH514759	1259	En la granja	Patitos
+FPH514760	1260	Criatura mítica	Hidras y Medusa
+FPH514761	1261	De vuelta a la escuela	Mochila
+FPH514762	1262	Animal	Rey Cobra
+FPH514763	1263	En la playa	Traje de baño y sandalias
+FPH514764	1264	Bioma	Oasis del desierto
+FPH514765	1265	Emoción	Asustado y horrorizado
+FPH514766	1266	Color	Azul claro
+FPH514767	1267	Día festivo	Kwanzaa
+FPH514768	1268	Hierbas y especias	Regaliz
+FPH514769	1269	Idioma	Filipino
+FPH514770	1270	Cocinando	Maquina de palomitas de maiz
+FPH514771	1271	Instrumento musical	Trombón
+FPH514772	1272	Criatura mítica	Genio en una lámpara
+FPH514773	1273	Ciudad latinoamericana	Puerto Vallarta
+FPH514774	1274	Rocas y minerales	Roca ígnea
+FPH514775	1275	Familia	Hermanastra
+FPH514776	1276	País	Albania
+FPH514777	1277	Pelicula Disney	El tostadorcito valiente
+FPH514778	1278	En la granja	Irrigación
+FPH514779	1279	De vuelta a la escuela	Caja de almuerzo
+FPH514780	1280	Beber	Batido de frutas
+FPH514781	1281	Personaje de ficción	James Bond
+FPH514782	1282	Color	Índigo
+FPH514783	1283	Criatura mítica	Leviathan
+FPH514784	1284	En la playa	Pelota de playa
+FPH514785	1285	Hierbas y especias	Wasabi picante
+FPH514786	1286	Instrumento musical	Clarinete
+FPH514787	1287	Emoción	Sentimental
+FPH514788	1288	Cocinando	Cucharilla
+FPH514789	1289	Idioma	alemán
+FPH514790	1290	Bioma	Río costero
+FPH514791	1291	Aperitivo	Esquites
+FPH514792	1292	Día festivo	Dia del Ejercito
+FPH514793	1293	De vuelta a la escuela	Bolígrafo
+FPH514794	1294	Rocas y minerales	Arenisca
+FPH514795	1295	País	Bolivia
+FPH514796	1296	Familia	Bisabuelo
+FPH514797	1297	En la playa	Submarinismo
+FPH514798	1298	Color	Monasterio
+FPH514799	1299	Criatura mítica	Fénix
+FPH514800	1300	Postre	Rosquillas
+FPH514801	1301	En la granja	Alpaca
+FPH514802	1302	Actividad al aire libre	Fútbol
+FPH514803	1303	Cocinando	Cuchara de helado
+FPH514804	1304	Elemento	Calcio
+FPH514805	1305	De vuelta a la escuela	Diccionario
+FPH514806	1306	Instrumento musical	Tambor de caja
+FPH514807	1307	Idioma	Coreano
+FPH514808	1308	Hierbas y especias	Cilantro
+FPH514809	1309	Emoción	Triunfante
+FPH514810	1310	Bioma	Zona entre mareas
+FPH514811	1311	Telenovela	Guadalupe
+FPH514812	1312	Rocas y minerales	Granito y Basalto
+FPH514813	1313	País	Tailandia
+FPH514814	1314	Familia	Abuelas y abuelos
+FPH514815	1315	Beber	Té Earl Grey
+FPH514816	1316	En la playa	Agua salada
+FPH514817	1317	Color	Rosas y azules
+FPH514818	1318	Criatura mítica	Banshee
+FPH514819	1319	Cocinando	Caramelizar
+FPH514820	1320	De vuelta a la escuela	Transportador
+FPH514821	1321	Idioma	italiano
+FPH514822	1322	Día festivo	Janucá
+FPH514823	1323	Emoción	Simpático
+FPH514824	1324	En la granja	Animales de granja
+FPH514825	1325	Aperitivo	Elote
+FPH514826	1326	Elemento	Cloro
+FPH514827	1327	Instrumento musical	Cornetas y trompetas
+FPH514828	1328	Bioma	Pantano
+FPH514829	1329	Hierbas y especias	Albahaca fresca
+FPH514830	1330	Rocas y minerales	Caliza
+FPH514831	1331	Familia	Padrastro
+FPH514832	1332	País	Portugal
+FPH514833	1333	De vuelta a la escuela	Papel de construcción
+FPH514834	1334	Ocupación	Dermatólogo
+FPH514835	1335	Pelicula Disney	Bichos (Una aventura en miniatura)
+FPH514836	1336	Postre	Crepes
+FPH514837	1337	Color	Grises y amarillos
+FPH514838	1338	Idioma	Tagalo
+FPH514839	1339	Cocinando	Guantes de cocina
+FPH514840	1340	En la playa	Dolar de arena
+FPH514841	1341	Personaje de ficción	Fry y Bender
+FPH514842	1342	Criatura mítica	Godzilla
+FPH514843	1343	En la granja	Agricultura
+FPH514844	1344	Instrumento musical	Cornamusa
+FPH514845	1345	Cena	Taco de Canasta
+FPH514846	1346	Vehículo	Jeep Renegade
+FPH514847	1347	País	Mozambique
+FPH514848	1348	Bioma	Bosque
+FPH514849	1349	Emoción	Soledad
+FPH514850	1350	De vuelta a la escuela	Enciclopedia
+FPH514851	1351	Rocas y minerales	Zafiro
+FPH514852	1352	Familia	Primo segundo
+FPH514853	1353	Cocinando	Pelador de verduras
+FPH514854	1354	Elemento	Yodo
+FPH514855	1355	Criatura mítica	Quimera
+FPH514856	1356	Animal	Búfalo
+FPH514857	1357	Idioma	Español
+FPH514858	1358	Hierbas y especias	Romero
+FPH514859	1359	En la playa	Tabla de surf
+FPH514860	1360	Instrumento musical	Xilófono
+FPH514861	1361	Color	Bígaro
+FPH514862	1362	En la granja	Vacas y toros
+FPH514863	1363	Desayuno	Huevos Veracruzanos
+FPH514864	1364	De vuelta a la escuela	Barra de pegamento
+FPH514865	1365	Cocinando	Olla arrocera
+FPH514866	1366	Vehículo	Honda HR-V
+FPH514867	1367	País	Luxemburgo
+FPH514868	1368	Rocas y minerales	Esmeralda
+FPH514869	1369	Cena	Tlayuda
+FPH514870	1370	Criatura mítica	Centauro
+FPH514871	1371	Bioma	Bosque de coníferas
+FPH514872	1372	Idioma	húngaro
+FPH514873	1373	Hierbas y especias	Salvia y tomillo
+FPH514874	1374	Elemento	Uranio
+FPH514875	1375	De vuelta a la escuela	Tijeras y cinta
+FPH514876	1376	Color	Rosa caliente
+FPH514877	1377	Estado de EE. UU.	Texas
+FPH514878	1378	Familia	Suegro
+FPH514879	1379	En la playa	Pulverizar protector solar
+FPH514880	1380	Instrumento musical	Violonchelos y bajos
+FPH514881	1381	Emoción	Miedo y pánico
+FPH514882	1382	En la granja	Espantapájaros
+FPH514883	1383	Cocinando	Tabla de cortar
+FPH514884	1384	Pelicula Disney	Los increíbles
+FPH514885	1385	Postre	Hielo picado
+FPH514886	1386	Personaje de ficción	Atticus Finch
+FPH514887	1387	Beber	Michelada
+FPH514888	1388	De vuelta a la escuela	Clase de cálculo
+FPH514889	1389	País	Montenegro
+FPH514890	1390	Color	Marfil y ébano
+FPH514891	1391	Idioma	Chino cantonés
+FPH514892	1392	Bioma	Pastizales
+FPH514893	1393	Telenovela	Eva Luna
+FPH514894	1394	Criatura mítica	Cíclope
+FPH514895	1395	Elemento	Nitrógeno
+FPH514896	1396	Vehículo	Chevrolet Aveo
+FPH514897	1397	Hierbas y especias	Rábano picante
+FPH514898	1398	Familia	Hijos e hijas
+FPH514899	1399	En la granja	Siembra y cosecha
+FPH514900	1400	Instrumento musical	Castañuelas
+FPH514901	1401	Cocinando	Sartén
+FPH514902	1402	De vuelta a la escuela	Pizarra
+FPH514903	1403	Rocas y minerales	Estalagmita
+FPH514904	1404	Emoción	Satisfacción
+FPH514905	1405	Idioma	ucranio
+FPH514906	1406	Bioma	Fosa del mar profundo
+FPH514907	1407	En la playa	Bucear
+FPH514908	1408	Ciudad latinoamericana	San Miguel de Allende
+FPH514909	1409	Pelicula Disney	Intensa Mente
+FPH514910	1410	País	Islas Salomón
+FPH514911	1411	Personaje de ficción	Sherlock Holmes
+FPH514912	1412	Criatura mítica	Duende
+FPH514913	1413	Color	Fucsia y Magenta
+FPH514914	1414	Cocinando	Máquina de espresso
+FPH514915	1415	Familia	Mellizos
+FPH514916	1416	De vuelta a la escuela	Examen sorpresa
+FPH514917	1417	Elemento	Plutonio
+FPH514918	1418	En la granja	Árboles frutales
+FPH514919	1419	Hierbas y especias	Hojas de menta
+FPH514920	1420	Instrumento musical	Violines y Violas
+FPH514921	1421	Beber	Margarita
+FPH514922	1422	Cena	Tripas
+FPH514923	1423	Idioma	portugués
+FPH514924	1424	Bioma	Bosque de mangle
+FPH514925	1425	Cocinando	Cuchillo de carne
+FPH514926	1426	Emoción	Rubor nervioso
+FPH514927	1427	Personaje de ficción	Forrest Gump
+FPH514928	1428	Color	Negro Carbón
+FPH514929	1429	Criatura mítica	Abominable hombre de las nieves
+FPH514930	1430	En la playa	Arrecife de coral
+FPH514931	1431	De vuelta a la escuela	Estudios Sociales
+FPH514932	1432	País	Arabia Saudita
+FPH514933	1433	Vehículo	Hyundai Crete
+FPH514934	1434	Familia	Hijo y padre
+FPH514935	1435	Cocinando	Cortador de galletas
+FPH514936	1436	Instrumento musical	Pandereta
+FPH514937	1437	Postre	Pastel de nuez
+FPH514938	1438	Elemento	Cromo
+FPH514939	1439	Hierbas y especias	Menta
+FPH514940	1440	Idioma	vietnamita
+FPH514941	1441	Telenovela	La Mujer de mi Vida
+FPH514942	1442	Criatura mítica	Pegasus
+FPH514943	1443	Emoción	Afligido por el dolor
+FPH514944	1444	En la granja	Gallinero
+FPH514945	1445	Personaje de ficción	Walter White
+FPH514946	1446	País	Azerbaijan
+FPH514947	1447	Rocas y minerales	Turquesa
+FPH514948	1448	De vuelta a la escuela	Resaltador
+FPH514949	1449	Animal	Panda rojo
+FPH514950	1450	Color	Mostaza amarilla
+FPH514951	1451	Beber	Rompope
+FPH514952	1452	Familia	Tías y tíos
+FPH514953	1453	En la playa	Castillo de arena
+FPH514954	1454	Instrumento musical	Acordeón
+FPH514955	1455	Cocinando	Cuchara medidora
+FPH514956	1456	Personaje de ficción	Homer Simpson
+FPH514957	1457	Ciudad latinoamericana	Cabo San Lucas
+FPH514958	1458	Idioma	búlgaro
+FPH514959	1459	Bioma	bosque boreal
+FPH514960	1460	Criatura mítica	Albahaca
+FPH514961	1461	Hierbas y especias	Cilantro
+FPH514962	1462	Emoción	Ira furiosa
+FPH514963	1463	Rocas y minerales	Roca sedimentaria
+FPH514964	1464	Elemento	Magnesio
+FPH514965	1465	En la granja	Paca de heno
+FPH514966	1466	Pelicula Disney	Ratatouille
+FPH514967	1467	Beber	Cafe de Olla
+FPH514968	1468	De vuelta a la escuela	Tablero de tiza
+FPH514969	1469	Familia	Suegra
+FPH514970	1470	En la playa	Gafas de sol
+FPH514971	1471	País	Lituania
+FPH514972	1472	Día festivo	Día de la Madre
+FPH514973	1473	Color	Bosque verde
+FPH514974	1474	Instrumento musical	Piano de cola
+FPH514975	1475	Pelicula Disney	Rompe Ralph
+FPH514976	1476	Cocinando	Cacerola
+FPH514977	1477	Telenovela	Behind Closed Doors
+FPH514978	1478	Personaje de ficción	Indiana Jones
+FPH514979	1479	Hierbas y especias	Pimienta de cayena
+FPH514980	1480	Postre	Pastel de cerezas
+FPH514981	1481	Emoción	Entusiasta
+FPH514982	1482	En la playa	Tabla de boogie
+FPH514983	1483	Bioma	Bosque tropical
+FPH514984	1484	Elemento	Platino
+FPH514985	1485	Beber	champán
+FPH514986	1486	En la granja	Caballos y establos
+FPH514987	1487	Criatura mítica	Gárgola
+FPH514988	1488	Rocas y minerales	Aguamarina
+FPH514989	1489	De vuelta a la escuela	Educación Física
+FPH514990	1490	Familia	Nieta
+FPH514991	1491	Hierbas y especias	Hojas de laurel
+FPH514992	1492	Cena	Tostada de res
+FPH514993	1493	Instrumento musical	Guitarra electrica
+FPH514994	1494	Bioma	Tundra helada
+FPH514995	1495	Cocinando	Cafetera
+FPH514996	1496	Idioma	japonés
+FPH514997	1497	Emoción	Asombro
+FPH514998	1498	País	Honduras
+FPH514999	1499	Día festivo	Nochebuena
+FPH515000	1500	Color	Azul marino

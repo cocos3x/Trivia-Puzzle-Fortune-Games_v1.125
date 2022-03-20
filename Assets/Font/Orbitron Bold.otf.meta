@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ad6c6430032c4989acd307071b31daf1
+timeCreated: 1647793020
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "Orbitron Bold"
+  fontNames:
+  - Orbitron
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

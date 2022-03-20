@@ -1,0 +1,219 @@
+using UnityEngine;
+public sealed class ApiRequester.RequestHandler : MulticastDelegate
+{
+    // Methods
+    public ApiRequester.RequestHandler(object object, IntPtr method)
+    {
+        mem[1152921515623224272] = object;
+        mem[1152921515623224280] = method;
+        mem[1152921515623224256] = method;
+    }
+    public virtual void Invoke(string method, System.Collections.Generic.Dictionary<string, object> response)
+    {
+        var val_15;
+        var val_16;
+        var val_17;
+        var val_19;
+        var val_20;
+        var val_21;
+        if(X8 != 0)
+        {
+                val_15 = mem[X8 + 24];
+            val_15 = X8 + 24;
+            if(val_15 == 0)
+        {
+                return;
+        }
+        
+            val_16 = X8 + 32;
+        }
+        else
+        {
+                val_15 = 1;
+        }
+        
+        var val_24 = 0;
+        string val_1 = method - 16;
+        System.Collections.Generic.Dictionary<System.String, System.Object> val_2 = response - 16;
+        goto label_49;
+        label_39:
+        val_17 = mem[X24 + 72];
+        val_17 = X24 + 72;
+        if((this & 1) == 0)
+        {
+            goto label_4;
+        }
+        
+        UnityEngine.Sprite val_3 = X24.disabledSprite;
+        var val_13 = 0;
+        val_13 = val_13 + 1;
+        goto label_25;
+        label_40:
+        string val_4 = 1152921504622235648 + ((X24 + 72) << 4);
+        val_19 = mem[(1152921504622235648 + (X24 + 72) << 4) + 312];
+        goto label_25;
+        label_4:
+        string val_5 = 1152921504622235648 + val_17;
+        goto label_25;
+        label_31:
+        if((method & 1) == 0)
+        {
+            goto label_11;
+        }
+        
+        var val_20 = val_17;
+        if((X24 + 72 + 294) == 0)
+        {
+            goto label_25;
+        }
+        
+        var val_14 = X24 + 72 + 176;
+        var val_15 = 0;
+        val_14 = val_14 + 8;
+        label_14:
+        if(((X24 + 72 + 176 + 8) + -8) == X24.disabledSprite)
+        {
+            goto label_13;
+        }
+        
+        val_15 = val_15 + 1;
+        val_14 = val_14 + 16;
+        if(val_15 < (X24 + 72 + 294))
+        {
+            goto label_14;
+        }
+        
+        goto label_25;
+        label_32:
+        var val_7 = val_17 + ((X24 + 72) << 4);
+        val_21 = mem[(X24 + 72 + (X24 + 72) << 4) + 312];
+        val_21 = (X24 + 72 + (X24 + 72) << 4) + 312;
+        goto label_25;
+        label_44:
+        val_19 = mem[(((X24 + 72 + (X24 + 72) << 4) + (((X24 + 72 + 176 + 8) + 16) + X24 + 72)) + 304) + 8];
+        val_19 = (((X24 + 72 + (X24 + 72) << 4) + (((X24 + 72 + 176 + 8) + 16) + X24 + 72)) + 304) + 8;
+        goto label_25;
+        label_11:
+        var val_17 = val_17;
+        val_17 = val_17 + (X24 + 72);
+        goto label_25;
+        label_34:
+        var val_18 = X11;
+        val_18 = val_18 + response;
+        val_17 = val_17 + val_18;
+        System.Collections.Generic.Dictionary<System.String, System.Object> val_10 = val_17 + 304;
+        goto label_25;
+        label_13:
+        var val_19 = val_14;
+        val_19 = val_19 + (X24 + 72);
+        val_20 = val_20 + val_19;
+        val_20 = val_20 + 304;
+        goto label_25;
+        label_49:
+        val_17 = mem[1152921515623364944];
+        if((mem[1152921515623364952] & 1) == 0)
+        {
+            goto label_23;
+        }
+        
+        if((mem[1152921515623364952] + 74) == 2)
+        {
+            goto label_48;
+        }
+        
+        goto label_25;
+        label_23:
+        if((mem[1152921515623364952] + 74) != 2)
+        {
+            goto label_26;
+        }
+        
+        if(val_17 == 0)
+        {
+            goto label_27;
+        }
+        
+        if((((mem[1152921515623364952] + 72) == 1) || (((mem[1152921515623364944] + 273) & 1) != 0)) || ((mem[1152921515623364944] + 273) == 0))
+        {
+            goto label_25;
+        }
+        
+        if((mem[1152921515623364952] & 1) == 0)
+        {
+            goto label_31;
+        }
+        
+        if((mem[1152921515623364952] & 1) == 0)
+        {
+            goto label_32;
+        }
+        
+        if((mem[1152921515623364944] + 294) == 0)
+        {
+            goto label_25;
+        }
+        
+        var val_21 = mem[1152921515623364944] + 176;
+        var val_22 = 0;
+        val_21 = val_21 + 8;
+        label_35:
+        if(((mem[1152921515623364944] + 176 + 8) + -8) == (mem[1152921515623364952] + 24))
+        {
+            goto label_34;
+        }
+        
+        val_22 = val_22 + 1;
+        val_21 = val_21 + 16;
+        if(val_22 < (mem[1152921515623364944] + 294))
+        {
+            goto label_35;
+        }
+        
+        goto label_25;
+        label_26:
+        if(((mem[1152921515623364952] + 72) == 1) || ((mem[1152921515623364952] + 72) == 0))
+        {
+            goto label_38;
+        }
+        
+        if((mem[1152921515623364952] & 1) == 0)
+        {
+            goto label_39;
+        }
+        
+        if((mem[1152921515623364952] & 1) == 0)
+        {
+            goto label_40;
+        }
+        
+        var val_23 = 0;
+        val_23 = val_23 + 1;
+        goto label_44;
+        label_38:
+        if((val_17 != 0) || ((mem[1152921515623364952].disabledSprite & 1) == 0))
+        {
+            goto label_48;
+        }
+        
+        goto label_48;
+        label_27:
+        UnityEngine.Sprite val_12 = mem[1152921515623364952].disabledSprite;
+        label_48:
+        label_25:
+        val_24 = val_24 + 1;
+        if(val_24 != val_15)
+        {
+            goto label_49;
+        }
+    
+    }
+    public virtual System.IAsyncResult BeginInvoke(string method, System.Collections.Generic.Dictionary<string, object> response, System.AsyncCallback callback, object object)
+    {
+        return (System.IAsyncResult)this;
+    }
+    public virtual void EndInvoke(System.IAsyncResult result)
+    {
+    
+    }
+
+}

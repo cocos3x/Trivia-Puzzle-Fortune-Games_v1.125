@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!4 &1790755236137206543
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790755236086874894}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1790755236086874894
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1790755236137206543}
+  - component: {fileID: 1790755237982700304}
+  m_Layer: 0
+  m_Name: "Configs_FortunePhrases"
+  m_TagString:
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1790755237982700304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1790755236086874894}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a750a770e9c561158672c98baedbfd7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  appConfig: {fileID: 11400000, guid: 6c078ef63c3a4d55835f7ea693aac731, type: 2}
+  adjustConfig: {fileID: 11400000, guid: 16b0d5299085467c83ee9ca6cf8bb390, type: 2}
+  gameConfig: {fileID: 11400000, guid: 75ce0fd0efcd4dab80e021ebbc5ce0d3, type: 2}
+  storeConfig: {fileID: 11400000, guid: 2f28cc64474e4d9ba9890246b50d2823, type: 2}
+  econConfig: {fileID: 11400000, guid: e6723e40e99f475a8adc986ad8914c09, type: 2}
+  sweepstakesConfig: {fileID: 11400000, guid: e163c3f9b8b0419cb804fe0e0798f9a6, type: 2}
+  minigamesConfig: {fileID: 11400000, guid: de37579628ca44789dc4e67144de3245, type: 2}
+  dlcConfig: {fileID: 11400000, guid: c5854a9c052444b4891e36a6e5dc60e0, type: 2}
+  Themes: {fileID: 11400000, guid: 5a8629aa7aa74065b2df9e0fe02d68c1, type: 2}

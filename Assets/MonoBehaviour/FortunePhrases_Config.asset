@@ -1,0 +1,202 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b88a274b6afa6d1de7791860f13cf43c, type: 3}
+  m_Name: "FortunePhrases_Config"
+  m_EditorClassIdentifier: 
+  gameName: "Trivia Puzzle Fortune"
+  gamePathName: "FortunePhrases"
+  internalAcronym: "FPH"
+  bonusCollectType: 2
+  facebook_app_id: "335375687461367"
+  facebook_display_name: "Trivia Puzzle Fortune"
+  facebook_page_id: "103461101707507"
+  facebook_permissions: "email,user_friends"
+  amplitudeApiKey: "cdc4782eba245b81b0cc07617ba8b69a"
+  companyName: "Super Lucky Games LLC"
+  gmsAppId: "841178161198"
+  googleAnalyticsTrackingId: 
+  deeplinkScheme: "fortune-phrases"
+  domainName: "jackpotinteractivegames.com"
+  vip_email: 
+  uploadLevelGenerationStatistics: 0
+  Free_Android:
+    appName: "Trivia Puzzle Fortune"
+    packageName: "com.fortune.phrases.android"
+    gameCode: "FPHa"
+    freeOrHd: "Free"
+    icons:
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f192a.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f144a.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f96a.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f72a.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f48a.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f36a.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f432a-bg.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f432a-icon.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f324a-bg.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f324a-icon.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f216a-bg.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f216a-icon.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f162a-bg.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f162a-icon.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f108a-bg.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f108a-icon.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f81a-bg.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f81a-icon.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f114a.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f256a.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f512a.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f1024a.png"
+    splashScreens:
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2fsplash-android.png"
+    allowedOrientations:
+    - "PORTRAIT"
+    marketUrl: "market:\x2f\x2fdetails?id=com.fortune.phrases.android"
+    applovinSdkKey: "t27UiRTdP3zD5cFwcH9AJIiQyCcEzLABR9185F6JBD6HTQTM4pwXKJN0HmivLJRGfDl_ndpMVXDNhQlEZERtnr"
+    helpshiftApiKey: "426053d4572081a795b7ef2bb8c066be"
+    helpshiftDomainName: "12gigs.helpshift.com"
+    helpshiftAppId: "12gigs_platform_20210105182837490-964c34385cd1156"
+    adjustAppToken: "ixcg8idwpdds"
+    singularAppToken: "37e39f320951fdc5297544ebf2825322"
+    bannerAdUnitId: "5ce985c723ff8d40"
+    rewardedVideAdUnitId: "502f75f020516949"
+    interstitialAdUnitId: "9f6dfc5897ba4d38"
+    safeDKAppId: "9db906de80a37c5978788c195fe54969"
+    safeDKAppKey: "0169b3678b13d31b42db67493b9def23"
+    adMobAppID: "ca-app-pub-9628806888148673~9832564317"
+    fcmSenderId: "408088123253"
+    loadingDialogTitle: "TODO-SET-THIS"
+    loadingDialogMessage: 
+    loadingDialogCurrency: "coins"
+    supportUrl: "https:\x2f\x2fsuperfree.com\x2fsupport\x2f"
+    supportText: "Need Help? Tap here!"
+    androidPlatform: "google"
+    leaderboardId: 
+    googlePlayKey: "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAny+bgNrCbrgIvcz5EWNbWK0JNF2sg0wPTojGhU3OcJWPXlYJ2BH0RCizLta0MCzme5a+HZP4T+fCGghDZB+rsasP6gu6zGDBOdDGdaXLKQv\x2fsqLLShubdcaJaWsv5rhSRCaSrxJqBD4\x2fzQ2hqy5eUY1Lq18mnrZ0rru9y5ngoCSqMxbZORa4xUbNFfk4RRSKSww\x2fG+DTJL+VT+E0E5NRsnHkHOvctnfBc9u6\x2fP++T5LxVa17cvfLi6kj0\x2f37FkfWqekGljrPQqAZnk9LWs7+iiJXCqLyoDD\x2fKEI0xwhzpoQo9u8dUDYPcnz\x2f\x2f6TV0olzHHbZVb4jtdrUbuT2KlDTBQIDAQAB"
+    cloudzillaKey: "Cloudzilla purchases key"
+    displayName: 
+    pushNotificationsIcons:
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f24.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f32.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f48.png"
+  Free_Ios:
+    appName: "Trivia Puzzle Fortune"
+    packageName: "com.fortune.phrases.ios"
+    gameCode: "FPHi"
+    freeOrHd: "free"
+    icons:
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f76i.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f152i.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f167i.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f20i.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f40i.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f29i.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f58i.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f40i.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f80i.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f120i.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f180i.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f40i.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f60i.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f29i.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f58i.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f87i.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f80i.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f120i.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f1024i.png"
+    splashScreens:
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f320x480.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f640x960.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f640x1136.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f750x1334.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f768x1024.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f1536x2048.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f1125x2436.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f1242x2208.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f1024x768.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f2436x1125.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f2048x1536.png"
+    - "Assets\x2fGame\x2fUI\x2fFortunePhrases\x2fIcons\x2f2208x1242.png"
+    allowedOrientations:
+    - "PORTRAIT"
+    marketUrl: "itms-apps:\x2f\x2fitunes.apple.com\x2fapp\x2fid1565866365"
+    applovinSdkKey: "t27UiRTdP3zD5cFwcH9AJIiQyCcEzLABR9185F6JBD6HTQTM4pwXKJN0HmivLJRGfDl_ndpMVXDNhQlEZERtnr"
+    helpshiftApiKey: "426053d4572081a795b7ef2bb8c066be"
+    helpshiftDomainName: "12gigs.helpshift.com"
+    helpshiftAppId: "12gigs_platform_20210504144058713-a26cab74a58433c"
+    adjustAppToken: "i4frn3uaqx34"
+    singularAppToken: "37e39f320951fdc5297544ebf2825322"
+    bannerAdUnitId: "4f96524369ad82fc"
+    rewardedVideAdUnitId: "964c680eeb4d259f"
+    interstitialAdUnitId: "b20438ef636f3b90"
+    safeDKAppId: "2e9f3fa9befbf71bebf50193b8326f97"
+    safeDKAppKey: "5991beb4d33b5aabf56b6855022821bf"
+    adMobAppID: "ca-app-pub-9628806888148673~4444108822"
+    KEYCHAIN_ACCESS_GROUP: "S3693FGLRN.platinumPlayer"
+    adjustUniversalLinkUrl: "3que.adj.st"
+    supportUrl: "https:\x2f\x2fsuperfree.com\x2fsupport\x2f"
+    firebaseAnalyticsEnabled: 1
+  Free_Webgl:
+    appName: 
+    packageName: 
+    gameCode: 
+    freeOrHd: "free|hd"
+    icons:
+    - "Assets\x2fGame\x2fArt\x2fUI\x2fIcon\x2fbslots\x2f196a.png"
+    - "Assets\x2fGame\x2fArt\x2fUI\x2fIcon\x2fbslots\x2f144a.png"
+    - "Assets\x2fGame\x2fArt\x2fUI\x2fIcon\x2fbslots\x2f96a.png"
+    - "Assets\x2fGame\x2fArt\x2fUI\x2fIcon\x2fbslots\x2f72a.png"
+    - "Assets\x2fGame\x2fArt\x2fUI\x2fIcon\x2fbslots\x2f48a.png"
+    - "Assets\x2fGame\x2fArt\x2fUI\x2fIcon\x2fbslots\x2f36a.png"
+    splashScreens:
+    - "Assets\x2fGame\x2fArt\x2fUI\x2fIcon\x2fviponly\x2fsplash-android.png"
+    allowedOrientations:
+    - "LANDSCAPE_RIGHT"
+    - "LANDSCAPE_LEFT"
+    marketUrl: "Marke URL of this app"
+    applovinSdkKey: 
+    helpshiftApiKey: 
+    helpshiftDomainName: "Domain Name for Helpshift"
+    helpshiftAppId: 
+    adjustAppToken: 
+    singularAppToken: "37e39f320951fdc5297544ebf2825322"
+    bannerAdUnitId: 
+    rewardedVideAdUnitId: 
+    interstitialAdUnitId: 
+    safeDKAppId: 
+    safeDKAppKey: 
+    adMobAppID: 
+    bundleVersion: "1.234"
+    supportUrl: "https:\x2f\x2fplatinumplayerllc.com\x2fsupport"
+  APPLOVIN_SDK_KEY: "t27UiRTdP3zD5cFwcH9AJIiQyCcEzLABR9185F6JBD6HTQTM4pwXKJN0HmivLJRGfDl_ndpMVXDNhQlEZERtnr"
+  propertiesFile: "ant.properties"
+  antProjectName: "trv"
+  gameObjectName: "NativeCallbacks"
+  StagingServerURL: "https:\x2f\x2ffortune-phrases-stage.12gigs.com"
+  ProductionServerURL: "https:\x2f\x2ffortune-phrases-api.12gigs.com"
+  ResourcesDataPath: "umbrella"
+  EnabledScenes:
+  - "Assets\x2fWordGame\x2fScenes\x2fFortunePhrases\x2fBootstrap.unity"
+  - "Assets\x2fWordGame\x2fScenes\x2fFortunePhrases\x2fLaunchScene_Skeuomorphic.unity"
+  - "Assets\x2fWordGame\x2fScenes\x2fFortunePhrases\x2fGame_Skeuomorphic.unity"
+  - "Assets\x2fGame\x2fFeatures\x2fGameStore\x2fGameStoreScene.unity"
+  - "Assets\x2fWordGame\x2fScenes\x2fFortunePhrases\x2fLeagues_Skeuomorphic.unity"
+  ResourcesToDisable: []
+  isUmbrella: 0
+  deprecated: 0
+  priority: 30
+  googleSheetForMachines: "https:\x2f\x2fdocs.google.com\x2fspreadsheets\x2fd\x2fe\x2f2PACX-1vSbqgQrOc0psE-sHDYlrCmxojPBuLBS4D9vVJ0lbTOn7NRheuD801iDLU4N9DUKEVDE6eE5f-onJiEB\x2fpub?gid=1665838007&single=true&output=tsv"
+  staging_path: "\x2fsrv\x2fstage\x2ftrivia_game\x2fshared\x2fpublic\x2fsystem"
+  BuildTime: "3\x2f3\x2f2022 9:35:19 AM"
+  GitBranch: " FPH1.120-12-7-21"
+  GDPR_TOS_URL: 
+  GDPR_Privacy_URL: 

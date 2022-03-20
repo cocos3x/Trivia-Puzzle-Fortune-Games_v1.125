@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/WordGame/Scenes/FortunePhrases/Bootstrap.unity
+    guid: 48b5a364402bbe14a9df1495c77c55b3
+  - enabled: 1
+    path: Assets/WordGame/Scenes/FortunePhrases/LaunchScene_Skeuomorphic.unity
+    guid: 3f7124b749ee9434eb9a923eb540c776
+  - enabled: 1
+    path: Assets/WordGame/Scenes/FortunePhrases/Game_Skeuomorphic.unity
+    guid: 62237b16d38cf634a9cb0095aca5ab06
+  - enabled: 1
+    path: Assets/Game/Features/GameStore/GameStoreScene.unity
+    guid: 65a1ac1500191b54fa91e0f8c532f3f5
+  - enabled: 1
+    path: Assets/WordGame/Scenes/FortunePhrases/Leagues_Skeuomorphic.unity
+    guid: c1a661e9b8ef14445ad2d83497329cc8
